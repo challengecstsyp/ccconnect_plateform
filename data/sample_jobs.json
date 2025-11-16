@@ -1,0 +1,403 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Python Developer",
+    "years_experience_required": 5,
+    "skills_required": ["Python", "Django", "Flask", "FastAPI", "RESTful APIs", "PostgreSQL", "Redis", "Docker", "AWS", "GCP", "Git", "Microservices"],
+    "summary": "Lead the development of scalable web applications using Python frameworks and cloud technologies, ensuring high performance, maintainability, and security.",
+    "job_description": "We are looking for a Senior Python Developer to join our growing engineering team. The ideal candidate will have at least 5 years of professional experience in web development, with strong expertise in Python and related frameworks (Django, Flask, FastAPI). \n\nResponsibilities:\n- Design, develop, and maintain scalable web applications and APIs.\n- Collaborate with cross-functional teams to gather requirements and implement solutions.\n- Optimize application performance and ensure reliability across distributed systems.\n- Write unit and integration tests to ensure code quality.\n- Participate in code reviews and mentoring junior developers.\n\nRequirements:\n- 5+ years experience in Python development.\n- Strong knowledge of Django, Flask, FastAPI, and RESTful API design.\n- Experience with relational and NoSQL databases (PostgreSQL, Redis).\n- Familiarity with containerization (Docker) and cloud platforms (AWS or GCP).\n- Experience with Git, CI/CD pipelines, and microservices architecture.\n\nNice-to-Haves:\n- Experience with message queues (RabbitMQ, Kafka) and caching strategies.\n- Knowledge of GraphQL and async programming.\n- Previous experience in e-commerce or SaaS platforms.\n\nBenefits:\n- Competitive salary and performance bonuses.\n- Flexible working hours and remote options.\n- Opportunities for career growth and learning.\n- Work in a collaborative and innovative team environment."
+  },
+  {
+    "id": 2,
+    "title": "Full Stack JavaScript Developer",
+    "years_experience_required": 3,
+    "skills_required": ["React.js", "Node.js", "Express", "MongoDB", "TypeScript", "GraphQL", "Next.js", "Team Collaboration", "Jest", "Cypress"],
+    "summary": "Develop modern web applications using JavaScript stack, both frontend and backend.",
+    "job_description": "We are seeking a Full Stack JavaScript Developer to work on complex web applications. Candidates should have strong frontend and backend skills, experience with modern JS frameworks, and an eye for clean, maintainable code.\n\nResponsibilities:\n- Build responsive and performant web applications.\n- Develop server-side APIs with Node.js and Express.\n- Implement frontend interfaces using React.js and Next.js.\n- Write tests and maintain code quality.\n- Collaborate with designers, product managers, and other engineers.\n\nRequirements:\n- 3+ years experience in full stack development.\n- Strong knowledge of React.js, Node.js, Express, MongoDB.\n- Experience with TypeScript, GraphQL, Next.js.\n- Familiarity with testing frameworks (Jest, Cypress).\n\nNice-to-Haves:\n- Experience with CI/CD pipelines and Docker.\n- Knowledge of serverless architecture.\n- Contributions to open-source projects.\n\nBenefits:\n- Competitive salary and stock options.\n- Remote work opportunities.\n- Learning and mentorship programs.\n- Team-building events and hackathons."
+  },
+  {
+    "id": 3,
+    "title": "Data Scientist",
+    "years_experience_required": 4,
+    "skills_required": ["Python", "NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch", "Machine Learning", "Big Data", "Spark", "Hadoop", "Statistics", "Data Visualization"],
+    "summary": "Analyze data and build predictive models to support business decisions and research initiatives.",
+    "job_description": "Join our team as a Data Scientist to design and implement data-driven solutions. You will work with large datasets, build machine learning models, and provide insights to support strategic decisions.\n\nResponsibilities:\n- Analyze complex datasets to uncover patterns and insights.\n- Develop predictive and classification models.\n- Perform data cleaning, feature engineering, and visualization.\n- Collaborate with engineering and product teams to deploy ML solutions.\n- Communicate findings to non-technical stakeholders.\n\nRequirements:\n- 4+ years experience in data science.\n- Strong proficiency in Python, NumPy, Pandas, Scikit-learn.\n- Experience with deep learning frameworks (TensorFlow, PyTorch).\n- Familiarity with big data technologies (Spark, Hadoop).\n- Master's degree in Statistics, Computer Science, or related field.\n\nNice-to-Haves:\n- Experience with NLP or computer vision.\n- Knowledge of cloud ML platforms (AWS Sagemaker, GCP AI).\n- Publications in scientific journals or conferences.\n\nBenefits:\n- Competitive salary and performance bonuses.\n- Professional development and conference sponsorship.\n- Flexible working environment.\n- Collaborative and innovative team culture."
+  },
+  {
+    "id": 4,
+    "title": "DevOps Engineer",
+    "years_experience_required": 5,
+    "skills_required": ["Linux", "Kubernetes", "Docker", "CI/CD", "Jenkins", "GitLab CI", "Terraform", "Ansible", "Prometheus", "Grafana", "AWS", "Azure"],
+    "summary": "Automate deployment pipelines and manage cloud infrastructure for high-availability applications.",
+    "job_description": "We are hiring a DevOps Engineer responsible for building and maintaining our CI/CD pipelines, cloud infrastructure, and monitoring systems.\n\nResponsibilities:\n- Design, implement, and maintain CI/CD pipelines.\n- Automate cloud deployments and infrastructure management.\n- Monitor and maintain system health and performance.\n- Collaborate with development teams to ensure seamless deployment.\n- Troubleshoot and resolve production issues.\n\nRequirements:\n- 5+ years experience as a DevOps engineer.\n- Strong Linux administration skills.\n- Proficiency in Kubernetes, Docker, Terraform, Ansible.\n- Experience with monitoring tools (Prometheus, Grafana).\n- AWS or Azure certification.\n\nNice-to-Haves:\n- Experience with security best practices and compliance.\n- Knowledge of serverless and container orchestration.\n- Scripting skills (Python, Bash).\n\nBenefits:\n- Competitive salary and bonuses.\n- Remote work and flexible hours.\n- Training and certification support.\n- Collaborative and growth-oriented environment."
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Developer",
+    "years_experience_required": 4,
+    "skills_required": ["Swift", "Kotlin", "React Native", "Flutter", "iOS", "Android", "UI/UX Design", "Performance Optimization", "App Store Deployment", "Google Play Deployment"],
+    "summary": "Design, develop, and maintain native and cross-platform mobile applications with great user experience.",
+    "job_description": "We are looking for a Mobile App Developer to join our team and create high-quality applications for iOS and Android.\n\nResponsibilities:\n- Develop and maintain native iOS and Android applications.\n- Implement cross-platform solutions using React Native or Flutter.\n- Collaborate with designers to deliver smooth, intuitive UI/UX.\n- Optimize application performance and battery usage.\n- Deploy apps to App Store and Google Play.\n\nRequirements:\n- 4+ years experience in mobile development.\n- Expertise in Swift, Kotlin, and cross-platform frameworks.\n- Experience with mobile UI/UX best practices.\n- Strong knowledge of app store submission processes.\n\nNice-to-Haves:\n- Experience with mobile analytics and crash reporting.\n- Knowledge of CI/CD for mobile apps.\n- Portfolio of published apps.\n\nBenefits:\n- Competitive salary and performance incentives.\n- Flexible hours and remote options.\n- Opportunities for professional growth.\n- Collaborative team environment."
+  },
+  {
+    "id": 6,
+    "title": "Frontend Developer",
+    "years_experience_required": 3,
+    "skills_required": ["React", "Vue.js", "Angular", "HTML5", "CSS3", "SASS", "Webpack", "Responsive Design", "Accessibility", "Cross-Browser Compatibility"],
+    "summary": "Build responsive and accessible web interfaces with modern JavaScript frameworks.",
+    "job_description": "We are hiring a Frontend Developer to create responsive, user-friendly web applications.\n\nResponsibilities:\n- Develop web interfaces using React, Vue.js, or Angular.\n- Ensure applications are accessible and responsive across devices.\n- Collaborate with designers and backend engineers.\n- Optimize frontend performance and maintain code quality.\n- Write automated tests for frontend components.\n\nRequirements:\n- 3+ years experience in frontend development.\n- Strong skills in modern JavaScript frameworks.\n- Knowledge of HTML5, CSS3, SASS, Webpack.\n- Understanding of accessibility standards (WCAG).\n\nNice-to-Haves:\n- Experience with TypeScript and state management libraries (Redux, Vuex).\n- Familiarity with frontend testing frameworks (Jest, Cypress).\n- Knowledge of SEO optimization.\n\nBenefits:\n- Competitive salary.\n- Remote work options.\n- Learning and career growth opportunities.\n- Collaborative and creative environment."
+  },
+  {
+    "id": 7,
+    "title": "Cloud Architect",
+    "years_experience_required": 8,
+    "skills_required": ["AWS", "Azure", "GCP", "EC2", "S3", "Lambda", "RDS", "Cloud Security", "High Availability", "Cost Optimization", "Cloud Migration"],
+    "summary": "Design enterprise-level cloud infrastructure and migration strategies ensuring security and scalability.",
+    "job_description": "We are seeking a Cloud Architect to design and oversee cloud solutions for enterprise systems.\n\nResponsibilities:\n- Design scalable, fault-tolerant cloud architectures.\n- Evaluate and implement cloud migration strategies.\n- Ensure security, compliance, and cost optimization.\n- Collaborate with engineering teams for deployment best practices.\n- Provide guidance on cloud technologies and services.\n\nRequirements:\n- 8+ years experience in cloud architecture.\n- Expert-level knowledge of AWS, Azure, or GCP.\n- Experience designing high availability and disaster recovery systems.\n- Strong understanding of cloud security best practices.\n- Cloud certification (AWS Solutions Architect, Azure, or GCP).\n\nNice-to-Haves:\n- Experience with multi-cloud solutions.\n- Knowledge of container orchestration and serverless architectures.\n- Previous enterprise project leadership experience.\n\nBenefits:\n- Competitive salary and bonuses.\n- Remote work flexibility.\n- Professional development and certifications.\n- Collaborative and innovative work culture."
+  },
+  {
+    "id": 8,
+    "title": "AI/ML Engineer",
+    "years_experience_required": 5,
+    "skills_required": ["Python", "PyTorch", "TensorFlow", "Deep Learning", "NLP", "Computer Vision", "Transformers", "Research", "Data Preprocessing", "Model Deployment"],
+    "summary": "Develop AI/ML models for production and research, specializing in NLP, CV, and deep learning.",
+    "job_description": "We are hiring an AI/ML Engineer to develop state-of-the-art machine learning models for NLP and computer vision applications.\n\nResponsibilities:\n- Design, implement, and optimize deep learning models.\n- Conduct research on new ML architectures and techniques.\n- Preprocess and analyze large datasets.\n- Deploy models in production environments.\n- Collaborate with data engineers and product teams.\n\nRequirements:\n- 5+ years experience in AI/ML development.\n- Strong skills in Python, PyTorch, TensorFlow.\n- Experience with NLP, computer vision, and transformers.\n- Advanced understanding of ML algorithms and neural networks.\n\nNice-to-Haves:\n- Publications in top-tier ML conferences (NeurIPS, ICML, CVPR).\n- Experience with distributed training and large-scale model deployment.\n- Familiarity with cloud ML platforms.\n\nBenefits:\n- Competitive salary and research budget.\n- Remote-friendly work environment.\n- Opportunities for innovation and publications.\n- Collaborative research-focused team."
+  },
+  {
+    "id": 9,
+    "title": "Backend Engineer",
+    "years_experience_required": 5,
+    "skills_required": ["Java", "Spring Boot", "Microservices", "Distributed Systems", "Kafka", "RabbitMQ", "Service Mesh", "API Gateway", "Kubernetes", "Cloud Development", "SQL", "NoSQL"],
+    "summary": "Develop backend systems with high scalability, reliability, and distributed architecture.",
+    "job_description": "We are looking for a Backend Engineer to build scalable microservices and distributed systems.\n\nResponsibilities:\n- Design, implement, and maintain backend services.\n- Develop APIs and microservices architectures.\n- Collaborate with frontend and DevOps teams.\n- Ensure high performance and reliability of services.\n- Troubleshoot production issues.\n\nRequirements:\n- 5+ years experience in backend development.\n- Proficiency in Java, Spring Boot, and microservices.\n- Knowledge of message queues, service mesh, and API gateways.\n- Experience with cloud-native development (Kubernetes).\n- SQL and NoSQL database experience.\n\nNice-to-Haves:\n- Experience in event-driven architectures.\n- Knowledge of gRPC and RESTful API best practices.\n- Familiarity with cloud monitoring tools.\n\nBenefits:\n- Competitive compensation.\n- Remote and flexible work options.\n- Growth opportunities and mentorship.\n- Supportive and collaborative team environment."
+  },
+  {
+    "id": 10,
+    "title": "Cybersecurity Analyst",
+    "years_experience_required": 4,
+    "skills_required": ["CISSP", "CEH", "Threat Detection", "Incident Response", "SIEM", "Penetration Testing", "Vulnerability Assessment", "Security Auditing", "Compliance", "ISO 27001", "GDPR", "SOC 2"],
+    "summary": "Protect company systems and data through security analysis, auditing, and threat mitigation.",
+    "job_description": "We are hiring a Cybersecurity Analyst to monitor, analyze, and secure our IT infrastructure.\n\nResponsibilities:\n- Monitor security systems and alerts.\n- Conduct penetration tests and vulnerability assessments.\n- Develop security policies and ensure compliance.\n- Investigate security incidents and recommend mitigation.\n- Collaborate with IT and development teams on security best practices.\n\nRequirements:\n- 4+ years experience in cybersecurity.\n- CISSP or CEH certification preferred.\n- Experience with SIEM tools, penetration testing, and security audits.\n- Knowledge of compliance frameworks (ISO 27001, GDPR, SOC 2).\n\nNice-to-Haves:\n- Cloud security experience.\n- Scripting skills for automation.\n- Previous experience in incident response teams.\n\nBenefits:\n- Competitive salary and bonuses.\n- Remote work options.\n- Training and certification support.\n- Collaborative and proactive security team."
+  },
+
+  {
+    "id": 11,
+    "title": "QA Automation Engineer",
+    "years_experience_required": 3,
+    "skills_required": ["Selenium", "Cypress", "TestNG", "Java", "Python", "API Testing", "CI/CD", "Jenkins", "Git"],
+    "summary": "Develop and maintain automated testing frameworks to ensure product quality.",
+    "job_description": "We are seeking a QA Automation Engineer to design, implement, and maintain automated tests for web and mobile applications.\n\nResponsibilities:\n- Create automated test scripts for UI, API, and performance testing.\n- Collaborate with developers to ensure test coverage.\n- Monitor test results and report defects.\n- Improve test frameworks and methodologies.\n\nRequirements:\n- 3+ years experience in QA automation.\n- Strong knowledge of Selenium, Cypress, or TestNG.\n- Experience with Java or Python.\n- Familiarity with CI/CD tools like Jenkins.\n\nNice-to-Haves:\n- Experience in performance and security testing.\n- Knowledge of cloud-based testing platforms.\n- Agile and Scrum experience.\n\nBenefits:\n- Competitive salary.\n- Flexible working hours and remote options.\n- Opportunities for career growth.\n- Collaborative team environment."
+  },
+  {
+    "id": 12,
+    "title": "UX/UI Designer",
+    "years_experience_required": 4,
+    "skills_required": ["Figma", "Sketch", "Adobe XD", "Wireframing", "Prototyping", "User Research", "Usability Testing", "HTML", "CSS"],
+    "summary": "Design intuitive and engaging user interfaces and experiences for web and mobile applications.",
+    "job_description": "We are hiring a UX/UI Designer to create compelling and user-friendly designs for our applications.\n\nResponsibilities:\n- Conduct user research and usability tests.\n- Create wireframes, prototypes, and high-fidelity designs.\n- Collaborate with product managers and engineers.\n- Ensure design consistency and accessibility.\n\nRequirements:\n- 4+ years experience in UX/UI design.\n- Proficiency in Figma, Sketch, Adobe XD.\n- Strong understanding of user-centered design principles.\n- Knowledge of HTML/CSS is a plus.\n\nNice-to-Haves:\n- Experience in designing mobile-first and responsive applications.\n- Portfolio showcasing design projects.\n- Experience with design systems.\n\nBenefits:\n- Competitive salary.\n- Remote work flexibility.\n- Learning and professional growth opportunities.\n- Creative and collaborative team culture."
+  },
+  {
+    "id": 13,
+    "title": "Product Manager",
+    "years_experience_required": 5,
+    "skills_required": ["Product Strategy", "Roadmap Planning", "Agile", "Scrum", "Market Research", "Stakeholder Management", "Prioritization", "Analytics"],
+    "summary": "Lead product vision and execution, collaborating with engineering, design, and marketing teams.",
+    "job_description": "We are seeking a Product Manager to drive the development of our software products from concept to launch.\n\nResponsibilities:\n- Define product vision, strategy, and roadmap.\n- Gather and prioritize requirements from stakeholders.\n- Collaborate with cross-functional teams.\n- Analyze market trends and user feedback.\n- Ensure timely delivery of high-quality features.\n\nRequirements:\n- 5+ years experience in product management.\n- Strong understanding of Agile and Scrum methodologies.\n- Excellent communication and leadership skills.\n- Analytical mindset and data-driven decision making.\n\nNice-to-Haves:\n- Experience in SaaS or tech product development.\n- Familiarity with analytics tools (Mixpanel, Google Analytics).\n- MBA or relevant certification.\n\nBenefits:\n- Competitive salary and performance bonuses.\n- Flexible and remote work options.\n- Opportunities for professional development.\n- Collaborative and innovative work environment."
+  },
+  {
+    "id": 14,
+    "title": "Business Analyst",
+    "years_experience_required": 3,
+    "skills_required": ["Requirements Gathering", "Data Analysis", "SQL", "Excel", "Process Modeling", "Documentation", "Stakeholder Communication"],
+    "summary": "Analyze business processes and provide insights to improve efficiency and effectiveness.",
+    "job_description": "We are hiring a Business Analyst to bridge the gap between business requirements and technical solutions.\n\nResponsibilities:\n- Gather and document business requirements.\n- Analyze data to identify trends and improvements.\n- Collaborate with stakeholders to ensure alignment.\n- Support project planning and execution.\n- Assist in testing and validation of solutions.\n\nRequirements:\n- 3+ years experience as a business analyst.\n- Strong analytical and documentation skills.\n- Proficiency in SQL and Excel.\n- Excellent communication and stakeholder management.\n\nNice-to-Haves:\n- Experience with Agile methodologies.\n- Knowledge of business process modeling tools.\n- Familiarity with ERP systems.\n\nBenefits:\n- Competitive salary.\n- Flexible work environment.\n- Learning and career development opportunities.\n- Collaborative team culture."
+  },
+  {
+    "id": 15,
+    "title": "Database Administrator (DBA)",
+    "years_experience_required": 5,
+    "skills_required": ["SQL Server", "PostgreSQL", "MySQL", "Oracle", "Backup and Recovery", "Performance Tuning", "Database Security", "High Availability", "Replication"],
+    "summary": "Manage, secure, and optimize enterprise databases ensuring high performance and availability.",
+    "job_description": "We are looking for a Database Administrator to manage and optimize our relational databases.\n\nResponsibilities:\n- Monitor and maintain database performance.\n- Implement backup, recovery, and disaster recovery strategies.\n- Optimize queries and indexes.\n- Ensure database security and compliance.\n- Assist development teams with database design and queries.\n\nRequirements:\n- 5+ years experience as a DBA.\n- Strong skills in SQL Server, PostgreSQL, or Oracle.\n- Experience with backup and recovery techniques.\n- Knowledge of database security best practices.\n\nNice-to-Haves:\n- Cloud database experience (AWS RDS, Azure SQL).\n- Familiarity with NoSQL databases (MongoDB, Cassandra).\n- Scripting skills (Python, Bash).\n\nBenefits:\n- Competitive compensation.\n- Flexible working options.\n- Professional development support.\n- Collaborative IT team environment."
+  },
+  {
+    "id": 16,
+    "title": "Network Engineer",
+    "years_experience_required": 4,
+    "skills_required": ["Cisco", "Routing & Switching", "Firewalls", "VPN", "LAN/WAN", "Network Security", "Wireshark", "TCP/IP", "Monitoring Tools"],
+    "summary": "Design, implement, and maintain secure and reliable network infrastructure.",
+    "job_description": "We are seeking a Network Engineer to maintain and optimize our corporate network infrastructure.\n\nResponsibilities:\n- Configure and maintain routers, switches, firewalls, and VPNs.\n- Monitor network performance and troubleshoot issues.\n- Ensure network security and compliance.\n- Collaborate with IT teams to support network projects.\n\nRequirements:\n- 4+ years experience in network engineering.\n- Hands-on experience with Cisco or equivalent equipment.\n- Knowledge of LAN/WAN, TCP/IP, and VPN technologies.\n- Strong problem-solving and analytical skills.\n\nNice-to-Haves:\n- Network certifications (CCNA, CCNP).\n- Experience with cloud networking.\n- Knowledge of SD-WAN and network automation.\n\nBenefits:\n- Competitive salary.\n- Remote work options.\n- Training and certification support.\n- Team-oriented and collaborative work environment."
+  },
+  {
+    "id": 17,
+    "title": "Technical Support Engineer",
+    "years_experience_required": 2,
+    "skills_required": ["Troubleshooting", "Customer Support", "Networking", "Windows/Linux", "SQL", "Ticketing Systems", "Communication"],
+    "summary": "Provide technical support to clients, resolving issues and ensuring smooth operations.",
+    "job_description": "We are hiring a Technical Support Engineer to assist our clients with technical issues and ensure customer satisfaction.\n\nResponsibilities:\n- Respond to customer queries via email, chat, or phone.\n- Troubleshoot software, hardware, and network issues.\n- Document solutions and escalate complex issues.\n- Collaborate with development teams for bug resolution.\n\nRequirements:\n- 2+ years experience in technical support.\n- Strong troubleshooting skills in software, networking, and OS environments.\n- Excellent communication and interpersonal skills.\n- Familiarity with SQL and basic scripting.\n\nNice-to-Haves:\n- Experience with ticketing systems (Jira, Zendesk).\n- Knowledge of cloud services.\n- Multilingual support capabilities.\n\nBenefits:\n- Competitive salary.\n- Training and professional growth.\n- Remote work and flexible schedule.\n- Collaborative and supportive team."
+  },
+  {
+    "id": 18,
+    "title": "AI Research Scientist",
+    "years_experience_required": 6,
+    "skills_required": ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Python", "PyTorch", "TensorFlow", "Research Papers", "Data Analysis"],
+    "summary": "Conduct research in AI and develop novel algorithms for real-world applications.",
+    "job_description": "We are seeking an AI Research Scientist to join our R&D team and advance AI technologies.\n\nResponsibilities:\n- Conduct original research in AI and ML.\n- Develop and evaluate new algorithms.\n- Publish research findings in conferences and journals.\n- Collaborate with product teams to apply research to real-world applications.\n\nRequirements:\n- 6+ years experience in AI research.\n- Strong knowledge of ML/DL algorithms.\n- Hands-on experience with Python, PyTorch, TensorFlow.\n- Track record of publications in top-tier conferences.\n\nNice-to-Haves:\n- Experience with large-scale distributed training.\n- Familiarity with cloud-based ML platforms.\n- PhD in Computer Science, AI, or related field.\n\nBenefits:\n- Competitive salary.\n- Research grants and conference support.\n- Flexible and remote work options.\n- Collaborative and intellectually stimulating environment."
+  },
+  {
+    "id": 19,
+    "title": "Machine Learning Engineer",
+    "years_experience_required": 4,
+    "skills_required": ["Python", "Scikit-learn", "TensorFlow", "PyTorch", "Data Preprocessing", "Feature Engineering", "Model Deployment", "AWS", "GCP"],
+    "summary": "Design, train, and deploy machine learning models for production use.",
+    "job_description": "We are hiring a Machine Learning Engineer to implement ML solutions and deploy them at scale.\n\nResponsibilities:\n- Build and train ML models based on business requirements.\n- Preprocess and analyze data.\n- Deploy models to production environments.\n- Collaborate with data scientists and software engineers.\n\nRequirements:\n- 4+ years experience in ML engineering.\n- Strong skills in Python, Scikit-learn, TensorFlow, PyTorch.\n- Knowledge of cloud platforms (AWS, GCP).\n- Experience in data preprocessing and feature engineering.\n\nNice-to-Haves:\n- Experience with MLOps tools.\n- Knowledge of NLP or CV.\n- Experience in containerized deployment.\n\nBenefits:\n- Competitive compensation.\n- Remote-friendly work environment.\n- Professional growth opportunities.\n- Collaborative and innovative team."
+  },
+  {
+    "id": 20,
+    "title": "Software Architect",
+    "years_experience_required": 7,
+    "skills_required": ["System Design", "Java", "Python", "Microservices", "Cloud Architecture", "REST APIs", "Event-driven Architecture", "Scalability", "Team Leadership"],
+    "summary": "Lead software architecture design, ensuring scalable, maintainable, and high-performance systems.",
+    "job_description": "We are looking for a Software Architect to design and oversee complex software systems.\n\nResponsibilities:\n- Define software architecture and design patterns.\n- Guide engineering teams on best practices.\n- Evaluate and select technologies.\n- Ensure scalability, maintainability, and security.\n\nRequirements:\n- 7+ years experience in software development.\n- Strong system design and architecture skills.\n- Expertise in Java, Python, and cloud solutions.\n- Experience with microservices and REST APIs.\n\nNice-to-Haves:\n- Knowledge of event-driven architecture.\n- Leadership experience managing teams.\n- Previous enterprise project experience.\n\nBenefits:\n- Competitive salary.\n- Flexible working hours and remote options.\n- Opportunities for mentorship and growth.\n- Collaborative and innovative environment."
+  },
+  {
+    "id": 21,
+    "title": "Embedded Systems Engineer",
+    "years_experience_required": 4,
+    "skills_required": ["C", "C++", "Microcontrollers", "RTOS", "Circuit Design", "Debugging", "Firmware Development", "Python", "Hardware Integration"],
+    "summary": "Develop embedded software for microcontrollers and IoT devices.",
+    "job_description": "We are looking for an Embedded Systems Engineer to design and implement firmware for our IoT and embedded products.\n\nResponsibilities:\n- Develop and maintain embedded software.\n- Interface software with hardware components.\n- Perform debugging, testing, and optimization.\n- Collaborate with hardware engineers on integration.\n\nRequirements:\n- 4+ years experience in embedded systems.\n- Proficiency in C/C++ and RTOS.\n- Experience with microcontrollers and peripherals.\n- Strong debugging and problem-solving skills.\n\nNice-to-Haves:\n- Experience with IoT protocols (MQTT, BLE).\n- Familiarity with Python for scripting and testing.\n- Knowledge of PCB design or electronics fundamentals.\n\nBenefits:\n- Competitive compensation.\n- Opportunities for innovation and R&D.\n- Flexible working environment.\n- Collaborative team culture."
+  },
+  {
+    "id": 22,
+    "title": "Blockchain Developer",
+    "years_experience_required": 3,
+    "skills_required": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "Truffle", "Hardhat", "DeFi", "Cryptography", "Node.js"],
+    "summary": "Design, develop, and deploy blockchain-based solutions and smart contracts.",
+    "job_description": "We are hiring a Blockchain Developer to create decentralized applications (dApps) and smart contracts.\n\nResponsibilities:\n- Develop smart contracts on Ethereum and other blockchains.\n- Integrate dApps with front-end systems.\n- Conduct code reviews and audits for security.\n- Stay updated on blockchain technologies.\n\nRequirements:\n- 3+ years experience in blockchain development.\n- Strong knowledge of Solidity and smart contract development.\n- Experience with Ethereum, Web3.js, and Node.js.\n- Understanding of cryptography and security principles.\n\nNice-to-Haves:\n- Experience in DeFi, NFTs, or tokenomics.\n- Familiarity with Truffle, Hardhat, and Ganache.\n- Contribution to open-source blockchain projects.\n\nBenefits:\n- Competitive salary.\n- Remote work options.\n- Exposure to cutting-edge blockchain technologies.\n- Collaborative, innovative team."
+  },
+  {
+    "id": 23,
+    "title": "Data Engineer",
+    "years_experience_required": 4,
+    "skills_required": ["Python", "SQL", "ETL", "Spark", "Airflow", "AWS", "GCP", "Data Warehousing", "Big Data"],
+    "summary": "Design and maintain scalable data pipelines and infrastructure.",
+    "job_description": "We are seeking a Data Engineer to build and maintain data pipelines supporting analytics and machine learning projects.\n\nResponsibilities:\n- Develop ETL pipelines to ingest and transform data.\n- Work with data scientists and analysts to deliver reliable datasets.\n- Optimize data workflows for performance and scalability.\n- Ensure data quality and governance.\n\nRequirements:\n- 4+ years experience in data engineering.\n- Strong Python and SQL skills.\n- Experience with Spark, Airflow, and cloud platforms (AWS, GCP).\n- Knowledge of data warehousing solutions.\n\nNice-to-Haves:\n- Familiarity with NoSQL databases (Cassandra, MongoDB).\n- Experience in real-time data streaming.\n- Knowledge of data security and privacy regulations.\n\nBenefits:\n- Competitive salary.\n- Learning and growth opportunities.\n- Remote or flexible working options.\n- Collaborative team environment."
+  },
+  {
+    "id": 24,
+    "title": "AI Product Manager",
+    "years_experience_required": 5,
+    "skills_required": ["AI/ML Understanding", "Product Roadmap", "Stakeholder Management", "Data Analysis", "Agile", "Scrum", "Communication", "Prioritization"],
+    "summary": "Lead AI product development from concept to deployment, bridging technical and business teams.",
+    "job_description": "We are hiring an AI Product Manager to oversee AI-powered product development initiatives.\n\nResponsibilities:\n- Define product strategy and roadmap for AI solutions.\n- Work with engineering and data science teams.\n- Analyze market trends and user feedback.\n- Ensure AI models meet business goals and user needs.\n\nRequirements:\n- 5+ years experience in product management, preferably with AI/ML products.\n- Strong understanding of AI/ML technologies.\n- Excellent communication, prioritization, and stakeholder management skills.\n- Agile methodology experience.\n\nNice-to-Haves:\n- Experience launching AI-powered SaaS products.\n- Familiarity with model evaluation metrics and ML pipelines.\n- Data-driven decision-making capabilities.\n\nBenefits:\n- Competitive salary.\n- Remote work options.\n- Professional growth opportunities.\n- Dynamic and innovative team culture."
+  },
+  {
+    "id": 25,
+    "title": "Site Reliability Engineer (SRE)",
+    "years_experience_required": 4,
+    "skills_required": ["Linux", "Kubernetes", "Docker", "Terraform", "Monitoring", "Prometheus", "Grafana", "Python", "Go", "CI/CD"],
+    "summary": "Ensure the reliability, scalability, and performance of production systems.",
+    "job_description": "We are looking for an SRE to maintain highly available and scalable systems.\n\nResponsibilities:\n- Monitor and troubleshoot production environments.\n- Automate deployment and infrastructure tasks.\n- Collaborate with development teams to improve system reliability.\n- Implement monitoring and alerting solutions.\n\nRequirements:\n- 4+ years experience in SRE or DevOps.\n- Strong Linux and cloud infrastructure knowledge.\n- Hands-on experience with Kubernetes, Docker, and Terraform.\n- Programming/scripting skills in Python or Go.\n\nNice-to-Haves:\n- Experience with CI/CD pipelines.\n- Familiarity with Prometheus, Grafana, or ELK stack.\n- Knowledge of incident management practices.\n\nBenefits:\n- Competitive salary.\n- Flexible and remote-friendly work.\n- Learning and career growth opportunities.\n- Collaborative and proactive team environment."
+  },
+  {
+    "id": 26,
+    "title": "Game Developer",
+    "years_experience_required": 3,
+    "skills_required": ["Unity", "Unreal Engine", "C#", "C++", "3D Modeling", "Game Physics", "Shaders", "Networking"],
+    "summary": "Develop engaging and interactive games for PC, console, or mobile platforms.",
+    "job_description": "We are seeking a Game Developer to create immersive gaming experiences.\n\nResponsibilities:\n- Design and implement game mechanics.\n- Optimize performance for multiple platforms.\n- Collaborate with artists, designers, and QA teams.\n- Maintain code quality and version control.\n\nRequirements:\n- 3+ years experience in game development.\n- Strong proficiency in Unity or Unreal Engine.\n- Experience with C# or C++ programming.\n- Knowledge of 3D modeling, shaders, and physics engines.\n\nNice-to-Haves:\n- Multiplayer/networking experience.\n- Familiarity with mobile game development.\n- Passion for gaming and storytelling.\n\nBenefits:\n- Competitive salary.\n- Creative and flexible work environment.\n- Opportunities to work on cutting-edge projects.\n- Supportive and collaborative team."
+  },
+  {
+    "id": 27,
+    "title": "Computer Vision Engineer",
+    "years_experience_required": 4,
+    "skills_required": ["Python", "OpenCV", "PyTorch", "TensorFlow", "Deep Learning", "CNNs", "Image Processing", "Object Detection"],
+    "summary": "Develop computer vision solutions for real-world applications.",
+    "job_description": "We are looking for a Computer Vision Engineer to build AI models for image and video analysis.\n\nResponsibilities:\n- Design and implement computer vision algorithms.\n- Train and fine-tune deep learning models.\n- Collaborate with data engineers to prepare datasets.\n- Optimize models for deployment.\n\nRequirements:\n- 4+ years experience in computer vision or deep learning.\n- Strong Python skills and experience with OpenCV.\n- Hands-on experience with TensorFlow or PyTorch.\n- Experience with object detection, segmentation, and image processing.\n\nNice-to-Haves:\n- Experience in real-time video processing.\n- Familiarity with GPU optimization and deployment.\n- Publications or contributions in computer vision projects.\n\nBenefits:\n- Competitive compensation.\n- Opportunities for research and innovation.\n- Flexible remote-friendly work.\n- Collaborative and technology-driven team."
+  },
+  {
+    "id": 28,
+    "title": "Robotics Engineer",
+    "years_experience_required": 5,
+    "skills_required": ["ROS", "C++", "Python", "SLAM", "Robotics Control", "Sensor Fusion", "Embedded Systems", "Computer Vision"],
+    "summary": "Design, develop, and deploy autonomous robotic systems.",
+    "job_description": "We are hiring a Robotics Engineer to build autonomous and semi-autonomous robots for industrial and research applications.\n\nResponsibilities:\n- Develop robot control algorithms and software.\n- Implement SLAM and navigation systems.\n- Integrate sensors and actuators for real-world environments.\n- Collaborate with mechanical and electrical engineers.\n\nRequirements:\n- 5+ years experience in robotics or automation.\n- Strong programming in C++ and Python.\n- Experience with ROS and sensor integration.\n- Knowledge of computer vision and path planning.\n\nNice-to-Haves:\n- Experience in industrial automation or drones.\n- Familiarity with AI and ML for robotics.\n- Contribution to robotics projects or publications.\n\nBenefits:\n- Competitive salary.\n- Access to advanced robotics labs.\n- Remote-friendly and flexible schedule.\n- Opportunity to work on cutting-edge robotics."
+  },
+  {
+    "id": 29,
+    "title": "UI/UX Designer",
+    "years_experience_required": 3,
+    "skills_required": ["Figma", "Sketch", "Adobe XD", "Wireframing", "Prototyping", "User Research", "Interaction Design", "Visual Design", "HTML/CSS Basics"],
+    "summary": "Create user-centered designs for web and mobile applications.",
+    "job_description": "We are looking for a UI/UX Designer to design intuitive and visually appealing interfaces.\n\nResponsibilities:\n- Conduct user research and create personas.\n- Design wireframes, prototypes, and high-fidelity mockups.\n- Collaborate with developers to implement designs.\n- Ensure accessibility and usability standards.\n\nRequirements:\n- 3+ years experience in UI/UX design.\n- Proficiency in Figma, Sketch, or Adobe XD.\n- Strong visual and interaction design skills.\n- Understanding of HTML/CSS basics for implementation.\n\nNice-to-Haves:\n- Experience with motion design and animations.\n- Familiarity with design systems and component libraries.\n- Portfolio showcasing previous projects.\n\nBenefits:\n- Competitive salary.\n- Creative and flexible working environment.\n- Opportunities to work on innovative products.\n- Supportive and collaborative team."
+  },
+  {
+    "id": 30,
+    "title": "Quality Assurance (QA) Engineer",
+    "years_experience_required": 3,
+    "skills_required": ["Selenium", "Postman", "Test Automation", "Python", "Java", "Agile", "Manual Testing", "CI/CD"],
+    "summary": "Ensure software quality through manual and automated testing.",
+    "job_description": "We are seeking a QA Engineer to design and execute test plans for web and mobile applications.\n\nResponsibilities:\n- Create and maintain automated test scripts.\n- Perform manual testing for functional and regression tests.\n- Collaborate with development teams to resolve defects.\n- Report quality metrics and improve testing processes.\n\nRequirements:\n- 3+ years experience in software QA.\n- Strong experience with Selenium or similar frameworks.\n- Knowledge of Python or Java for automation.\n- Familiarity with Agile methodology.\n\nNice-to-Haves:\n- Experience with API testing (Postman).\n- Knowledge of CI/CD pipelines and test integration.\n- ISTQB certification.\n\nBenefits:\n- Competitive salary.\n- Remote or hybrid working options.\n- Continuous learning and career growth.\n- Supportive team and dynamic environment."
+  },
+  {
+    "id": 31,
+    "title": "Cloud Security Engineer",
+    "years_experience_required": 5,
+    "skills_required": ["AWS", "Azure", "GCP", "IAM", "Encryption", "Network Security", "Cloud Compliance", "Python", "Terraform", "Security Audits"],
+    "summary": "Design and implement security solutions for cloud environments.",
+    "job_description": "We are seeking a Cloud Security Engineer to secure our cloud infrastructure and ensure compliance.\n\nResponsibilities:\n- Design and implement security policies for cloud systems.\n- Perform vulnerability assessments and penetration testing.\n- Monitor and respond to security incidents.\n- Collaborate with DevOps and IT teams.\n\nRequirements:\n- 5+ years experience in cloud security.\n- Expertise with AWS, Azure, or GCP.\n- Strong knowledge of IAM, encryption, and network security.\n- Experience with Python scripting and Terraform.\n\nNice-to-Haves:\n- Cloud security certifications (CCSP, AWS Security Specialty).\n- Experience with compliance frameworks (ISO 27001, SOC2).\n- Knowledge of container and Kubernetes security.\n\nBenefits:\n- Competitive salary.\n- Flexible work arrangements.\n- Professional growth in cloud security.\n- Collaborative and innovative team."
+  },
+  {
+    "id": 32,
+    "title": "AI Ethics Specialist",
+    "years_experience_required": 3,
+    "skills_required": ["AI Governance", "Ethics", "Policy Development", "Data Privacy", "Regulations", "Stakeholder Management", "Risk Assessment", "ML Basics"],
+    "summary": "Ensure responsible AI deployment and compliance with ethical standards.",
+    "job_description": "We are looking for an AI Ethics Specialist to guide the development and deployment of AI systems responsibly.\n\nResponsibilities:\n- Develop AI ethics guidelines and policies.\n- Conduct impact assessments of AI systems.\n- Advise on data privacy, fairness, and transparency.\n- Collaborate with technical and legal teams.\n\nRequirements:\n- 3+ years experience in AI governance, ethics, or related field.\n- Understanding of AI/ML technologies.\n- Knowledge of regulatory frameworks and compliance.\n- Strong analytical and communication skills.\n\nNice-to-Haves:\n- Experience in auditing AI systems.\n- Understanding of explainable AI (XAI) techniques.\n- Background in law, philosophy, or data ethics.\n\nBenefits:\n- Competitive compensation.\n- Remote-friendly work.\n- Opportunities to influence responsible AI policies.\n- Innovative and ethical-focused team."
+  },
+  {
+    "id": 33,
+    "title": "Technical Writer",
+    "years_experience_required": 2,
+    "skills_required": ["Documentation", "Markdown", "Git", "API Documentation", "Technical Writing", "Python", "Research", "Editing", "Attention to Detail"],
+    "summary": "Create clear and concise technical documentation for software products.",
+    "job_description": "We are hiring a Technical Writer to produce user manuals, API documentation, and technical guides.\n\nResponsibilities:\n- Write and maintain technical documentation.\n- Collaborate with engineers and product managers.\n- Ensure accuracy, clarity, and usability of documentation.\n- Manage version control and updates.\n\nRequirements:\n- 2+ years experience in technical writing.\n- Excellent writing, editing, and research skills.\n- Familiarity with Markdown, Git, or documentation tools.\n- Ability to understand complex technical concepts.\n\nNice-to-Haves:\n- Experience with API documentation.\n- Basic programming knowledge (Python, JavaScript).\n- Portfolio of previous technical writing work.\n\nBenefits:\n- Competitive salary.\n- Flexible work options.\n- Opportunities for professional growth.\n- Collaborative and supportive environment."
+  },
+  {
+    "id": 34,
+    "title": "Network Engineer",
+    "years_experience_required": 4,
+    "skills_required": ["Cisco", "Routing", "Switching", "Firewall", "VPN", "LAN/WAN", "Network Monitoring", "Python", "Wireshark"],
+    "summary": "Design, implement, and maintain secure and efficient network infrastructure.",
+    "job_description": "We are seeking a Network Engineer to manage our enterprise network systems.\n\nResponsibilities:\n- Configure and maintain routers, switches, and firewalls.\n- Monitor network performance and troubleshoot issues.\n- Implement security protocols and VPN solutions.\n- Collaborate with IT teams for network upgrades.\n\nRequirements:\n- 4+ years experience in network engineering.\n- Strong knowledge of Cisco devices and networking protocols.\n- Experience with network monitoring and troubleshooting.\n- Scripting skills in Python for automation.\n\nNice-to-Haves:\n- Certifications such as CCNA/CCNP.\n- Experience with cloud networking.\n- Familiarity with SDN and network virtualization.\n\nBenefits:\n- Competitive compensation.\n- Flexible and hybrid work options.\n- Career development and certifications support.\n- Collaborative and knowledgeable team."
+  },
+  {
+    "id": 35,
+    "title": "Marketing Data Analyst",
+    "years_experience_required": 3,
+    "skills_required": ["SQL", "Excel", "Google Analytics", "Python", "Tableau", "Data Visualization", "A/B Testing", "Statistics", "Reporting"],
+    "summary": "Analyze marketing data to optimize campaigns and drive growth.",
+    "job_description": "We are hiring a Marketing Data Analyst to extract insights from marketing campaigns and improve ROI.\n\nResponsibilities:\n- Collect, clean, and analyze marketing data.\n- Create dashboards and reports.\n- Conduct A/B testing and experiment analysis.\n- Collaborate with marketing and product teams.\n\nRequirements:\n- 3+ years experience in data analysis or marketing analytics.\n- Proficiency in SQL, Excel, and data visualization tools.\n- Experience with Google Analytics, Python, or R.\n- Strong statistical and analytical skills.\n\nNice-to-Haves:\n- Knowledge of CRM and marketing automation tools.\n- Experience with predictive analytics and machine learning.\n- Ability to communicate insights effectively.\n\nBenefits:\n- Competitive salary.\n- Flexible work environment.\n- Opportunities to impact marketing strategy.\n- Supportive, data-driven team culture."
+  },
+  {
+    "id": 36,
+    "title": "E-commerce Manager",
+    "years_experience_required": 5,
+    "skills_required": ["Shopify", "Magento", "SEO", "Digital Marketing", "Google Analytics", "Conversion Optimization", "Customer Experience", "Data Analysis", "Team Management"],
+    "summary": "Lead and optimize the online sales strategy and operations.",
+    "job_description": "We are seeking an E-commerce Manager to oversee our online retail operations and strategy.\n\nResponsibilities:\n- Develop and execute online sales strategies.\n- Optimize user experience and conversion rates.\n- Manage online marketing campaigns (SEO, PPC, email).\n- Analyze sales data and customer behavior.\n\nRequirements:\n- 5+ years experience managing e-commerce platforms.\n- Strong understanding of digital marketing and analytics.\n- Experience with Shopify, Magento, or similar platforms.\n- Leadership and team management skills.\n\nNice-to-Haves:\n- Experience with international e-commerce markets.\n- Familiarity with supply chain and inventory management.\n- Knowledge of web development basics.\n\nBenefits:\n- Competitive salary.\n- Remote or hybrid work options.\n- Opportunities to lead growth initiatives.\n- Collaborative and innovative environment."
+  },
+  {
+    "id": 37,
+    "title": "Mobile Game Designer",
+    "years_experience_required": 3,
+    "skills_required": ["Unity", "C#", "Level Design", "Storytelling", "UI/UX Design", "Game Mechanics", "Prototyping", "Analytics", "Player Engagement"],
+    "summary": "Design engaging mobile game experiences with strong mechanics and visuals.",
+    "job_description": "We are hiring a Mobile Game Designer to craft fun and addictive gaming experiences.\n\nResponsibilities:\n- Design gameplay mechanics, levels, and storylines.\n- Create wireframes and prototypes for mobile games.\n- Collaborate with developers and artists.\n- Analyze player behavior and iterate designs.\n\nRequirements:\n- 3+ years experience in game design.\n- Experience with Unity and C#.\n- Strong understanding of mobile UI/UX.\n- Creative and analytical mindset.\n\nNice-to-Haves:\n- Experience with monetization strategies and analytics.\n- Knowledge of animation and visual effects.\n- Published games or portfolio.\n\nBenefits:\n- Competitive salary.\n- Flexible and creative work environment.\n- Opportunities to innovate and lead projects.\n- Supportive team and mentorship."
+  },
+  {
+    "id": 38,
+    "title": "Social Media Manager",
+    "years_experience_required": 3,
+    "skills_required": ["Content Creation", "Instagram", "Facebook", "LinkedIn", "Analytics", "Campaign Management", "Copywriting", "SEO", "Community Engagement"],
+    "summary": "Manage and grow social media presence across multiple platforms.",
+    "job_description": "We are looking for a Social Media Manager to handle content creation and strategy.\n\nResponsibilities:\n- Develop and execute social media campaigns.\n- Monitor engagement and metrics.\n- Create content and copy for posts.\n- Collaborate with marketing and design teams.\n\nRequirements:\n- 3+ years experience in social media management.\n- Strong knowledge of Instagram, Facebook, LinkedIn, and TikTok.\n- Excellent writing and communication skills.\n- Experience analyzing social media metrics.\n\nNice-to-Haves:\n- Experience with paid social campaigns.\n- Graphic design or video editing skills.\n- Knowledge of influencer marketing.\n\nBenefits:\n- Competitive salary.\n- Creative and flexible environment.\n- Opportunities for growth and campaigns leadership.\n- Dynamic, collaborative team."
+  },
+  {
+    "id": 39,
+    "title": "Product Designer",
+    "years_experience_required": 4,
+    "skills_required": ["Figma", "Adobe XD", "Wireframing", "Prototyping", "UX Research", "UI Design", "Design Systems", "User Testing", "Visual Design"],
+    "summary": "Design user-centric digital products with a focus on UX and UI.",
+    "job_description": "We are hiring a Product Designer to craft seamless digital experiences for web and mobile.\n\nResponsibilities:\n- Conduct user research and usability testing.\n- Design wireframes, prototypes, and high-fidelity UI.\n- Collaborate with engineers and product managers.\n- Maintain and evolve design systems.\n\nRequirements:\n- 4+ years experience in product or UX/UI design.\n- Strong proficiency in Figma or Adobe XD.\n- Experience in usability testing and research.\n- Solid understanding of design systems.\n\nNice-to-Haves:\n- Motion design experience.\n- Experience with mobile-first and responsive design.\n- Portfolio showcasing high-quality projects.\n\nBenefits:\n- Competitive salary.\n- Remote-friendly environment.\n- Professional growth and mentorship.\n- Collaborative, innovative team."
+  },
+  {
+    "id": 40,
+    "title": "SEO Specialist",
+    "years_experience_required": 3,
+    "skills_required": ["SEO", "Google Analytics", "Keyword Research", "On-Page Optimization", "Off-Page Optimization", "Content Strategy", "Link Building", "Technical SEO", "HTML/CSS Basics"],
+    "summary": "Improve search engine visibility and organic traffic for websites.",
+    "job_description": "We are seeking an SEO Specialist to optimize website content and strategy.\n\nResponsibilities:\n- Conduct keyword research and analysis.\n- Optimize on-page and off-page SEO.\n- Monitor analytics and performance metrics.\n- Collaborate with content and marketing teams.\n\nRequirements:\n- 3+ years experience in SEO.\n- Strong knowledge of SEO tools and analytics.\n- Experience with HTML/CSS basics.\n- Ability to analyze and interpret data.\n\nNice-to-Haves:\n- Experience with content management systems.\n- Knowledge of PPC and digital marketing.\n- Up-to-date with SEO trends and best practices.\n\nBenefits:\n- Competitive salary.\n- Flexible work arrangements.\n- Opportunities to grow in digital marketing.\n- Collaborative and innovative environment."
+  },
+  {
+    "id": 41,
+    "title": "Customer Success Manager",
+    "years_experience_required": 4,
+    "skills_required": ["Customer Support", "CRM", "Communication", "Problem Solving", "Account Management", "Onboarding", "SaaS", "Data Analysis"],
+    "summary": "Ensure customers achieve success with our products and services.",
+    "job_description": "We are hiring a Customer Success Manager to enhance client satisfaction and retention.\n\nResponsibilities:\n- Onboard new clients and provide support.\n- Build strong relationships with customers.\n- Analyze usage data and recommend solutions.\n- Collaborate with sales and product teams.\n\nRequirements:\n- 4+ years experience in customer success or account management.\n- Strong communication and problem-solving skills.\n- Experience with CRM tools.\n- Understanding of SaaS products.\n\nNice-to-Haves:\n- Experience in technical support or enterprise accounts.\n- Data analysis skills.\n- Ability to train and educate clients.\n\nBenefits:\n- Competitive salary.\n- Flexible working hours.\n- Opportunities for career growth.\n- Supportive, customer-focused team."
+  },
+  {
+    "id": 42,
+    "title": "Business Analyst",
+    "years_experience_required": 4,
+    "skills_required": ["SQL", "Excel", "Data Analysis", "Reporting", "Process Improvement", "Stakeholder Management", "Documentation", "Agile", "Requirements Gathering"],
+    "summary": "Analyze business processes and provide actionable insights to improve efficiency.",
+    "job_description": "We are seeking a Business Analyst to bridge the gap between business needs and technical solutions.\n\nResponsibilities:\n- Gather and document business requirements.\n- Analyze data to support decision-making.\n- Prepare reports, dashboards, and presentations.\n- Collaborate with stakeholders and development teams.\n\nRequirements:\n- 4+ years experience as a business analyst.\n- Strong SQL, Excel, and data visualization skills.\n- Experience in Agile environments.\n- Excellent communication and analytical skills.\n\nNice-to-Haves:\n- Knowledge of project management tools.\n- Familiarity with ERP systems.\n- Experience with process improvement initiatives.\n\nBenefits:\n- Competitive salary.\n- Flexible work options.\n- Career growth opportunities.\n- Collaborative and innovative team."
+  },
+  {
+    "id": 43,
+    "title": "DevSecOps Engineer",
+    "years_experience_required": 5,
+    "skills_required": ["CI/CD", "AWS", "Azure", "Security Automation", "Docker", "Kubernetes", "Python", "Terraform", "Monitoring", "Vulnerability Assessment"],
+    "summary": "Integrate security into development and operations pipelines.",
+    "job_description": "We are looking for a DevSecOps Engineer to ensure secure, efficient, and reliable deployment pipelines.\n\nResponsibilities:\n- Implement security controls in CI/CD pipelines.\n- Automate security testing and vulnerability scanning.\n- Collaborate with development and operations teams.\n- Monitor and improve system security.\n\nRequirements:\n- 5+ years experience in DevOps or DevSecOps.\n- Strong knowledge of CI/CD, cloud platforms, and security tools.\n- Proficiency in scripting (Python, Bash).\n- Experience with Docker and Kubernetes.\n\nNice-to-Haves:\n- Certifications such as AWS Security Specialty or CISSP.\n- Knowledge of compliance and regulatory frameworks.\n- Experience with security incident response.\n\nBenefits:\n- Competitive salary.\n- Remote work flexibility.\n- Professional growth in security and cloud.\n- Innovative and collaborative team."
+  },
+  {
+    "id": 44,
+    "title": "BI Developer",
+    "years_experience_required": 4,
+    "skills_required": ["SQL", "Power BI", "Tableau", "Data Warehousing", "ETL", "Python", "DAX", "Data Modeling", "Reporting", "Analytics"],
+    "summary": "Develop business intelligence solutions and dashboards for data-driven decisions.",
+    "job_description": "We are hiring a BI Developer to create dashboards and reports that enable business insights.\n\nResponsibilities:\n- Design, develop, and maintain BI solutions.\n- Work with stakeholders to understand data requirements.\n- Optimize ETL processes and data models.\n- Provide analytics and insights for business decisions.\n\nRequirements:\n- 4+ years experience as BI Developer.\n- Strong SQL and data modeling skills.\n- Experience with Power BI or Tableau.\n- Knowledge of ETL processes and data warehousing.\n\nNice-to-Haves:\n- Python or R for analytics.\n- Experience with cloud BI solutions.\n- Excellent communication and presentation skills.\n\nBenefits:\n- Competitive compensation.\n- Remote-friendly work.\n- Career growth and skill development.\n- Collaborative and innovative team environment."
+  },
+  {
+    "id": 45,
+    "title": "Front-End Engineer (React)",
+    "years_experience_required": 3,
+    "skills_required": ["React", "JavaScript", "TypeScript", "HTML5", "CSS3", "Redux", "Testing", "Webpack", "Responsive Design", "REST APIs"],
+    "summary": "Build modern, responsive, and performant front-end applications.",
+    "job_description": "We are seeking a Front-End Engineer to develop responsive web applications using React.\n\nResponsibilities:\n- Build and maintain React-based web apps.\n- Optimize applications for performance and scalability.\n- Collaborate with designers and back-end engineers.\n- Write automated tests and ensure code quality.\n\nRequirements:\n- 3+ years experience in front-end development.\n- Strong React and JavaScript skills.\n- Proficiency in HTML5, CSS3, and TypeScript.\n- Experience with Redux, REST APIs, and testing frameworks.\n\nNice-to-Haves:\n- Familiarity with GraphQL and Next.js.\n- Knowledge of CI/CD for front-end deployment.\n- Experience with design systems.\n\nBenefits:\n- Competitive salary.\n- Flexible working environment.\n- Opportunities for learning and career growth.\n- Innovative and collaborative team."
+  },
+  {
+    "id": 46,
+    "title": "Backend Engineer (Node.js)",
+    "years_experience_required": 4,
+    "skills_required": ["Node.js", "Express", "MongoDB", "PostgreSQL", "REST APIs", "Microservices", "Docker", "Kubernetes", "Unit Testing", "CI/CD"],
+    "summary": "Develop scalable backend services and APIs for web applications.",
+    "job_description": "We are hiring a Backend Engineer to design and implement server-side applications using Node.js.\n\nResponsibilities:\n- Develop microservices and REST APIs.\n- Maintain database integrations (SQL & NoSQL).\n- Implement automated testing and CI/CD.\n- Collaborate with front-end and DevOps teams.\n\nRequirements:\n- 4+ years experience in backend development.\n- Strong Node.js and Express skills.\n- Experience with databases and microservices.\n- Proficiency with Docker and Kubernetes.\n\nNice-to-Haves:\n- Experience with GraphQL.\n- Knowledge of cloud deployments (AWS, Azure).\n- Strong debugging and problem-solving skills.\n\nBenefits:\n- Competitive salary.\n- Flexible working options.\n- Opportunities to work on large-scale systems.\n- Collaborative and innovative engineering team."
+  },
+  {
+    "id": 47,
+    "title": "AI Research Scientist",
+    "years_experience_required": 5,
+    "skills_required": ["Python", "PyTorch", "TensorFlow", "Deep Learning", "NLP", "Computer Vision", "Research Publications", "Data Analysis", "Machine Learning Algorithms", "Model Deployment"],
+    "summary": "Conduct AI research and develop state-of-the-art models for various applications.",
+    "job_description": "We are seeking an AI Research Scientist to drive innovation in artificial intelligence and machine learning.\n\nResponsibilities:\n- Conduct research in deep learning, NLP, and computer vision.\n- Develop and evaluate ML models.\n- Collaborate with engineering teams for model deployment.\n- Publish papers and present research findings.\n\nRequirements:\n- 5+ years experience in AI/ML research.\n- Strong Python skills and experience with PyTorch or TensorFlow.\n- Solid understanding of ML algorithms and deep learning architectures.\n- Research publications or contributions to AI community.\n\nNice-to-Haves:\n- Experience with large-scale model training.\n- Knowledge of cloud-based ML platforms.\n- Collaboration experience with academic or industrial labs.\n\nBenefits:\n- Competitive salary.\n- Flexible work arrangements.\n- Opportunities for research impact.\n- Collaborative and high-tech team."
+  },
+  {
+    "id": 48,
+    "title": "Technical Support Engineer",
+    "years_experience_required": 2,
+    "skills_required": ["Troubleshooting", "Customer Support", "Networking", "Linux", "Windows", "SaaS", "Ticketing Systems", "Communication", "Problem Solving"],
+    "summary": "Provide technical support and assistance to clients using software products.",
+    "job_description": "We are hiring a Technical Support Engineer to assist clients with technical issues and ensure smooth operations.\n\nResponsibilities:\n- Respond to support tickets and troubleshoot technical problems.\n- Guide customers through software installations and configurations.\n- Document solutions and escalate issues when needed.\n- Collaborate with development teams to resolve bugs.\n\nRequirements:\n- 2+ years experience in technical support or IT.\n- Strong problem-solving and communication skills.\n- Familiarity with networking, Linux, Windows, and SaaS.\n- Experience with ticketing systems.\n\nNice-to-Haves:\n- Knowledge of cloud services.\n- Certification in IT or networking.\n- Multilingual support capabilities.\n\nBenefits:\n- Competitive salary.\n- Flexible working hours.\n- Career growth and training opportunities.\n- Friendly and supportive team environment."
+  },
+  {
+    "id": 49,
+    "title": "Machine Learning Engineer",
+    "years_experience_required": 4,
+    "skills_required": ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Data Preprocessing", "Model Deployment", "Docker", "Kubernetes", "Cloud ML", "NLP/Computer Vision"],
+    "summary": "Build, train, and deploy machine learning models for production applications.",
+    "job_description": "We are looking for a Machine Learning Engineer to design and deploy ML solutions for our products.\n\nResponsibilities:\n- Build and train ML models using structured and unstructured data.\n- Deploy models into production environments.\n- Optimize model performance and scalability.\n- Collaborate with software engineers and data scientists.\n\nRequirements:\n- 4+ years experience in ML engineering.\n- Strong Python and ML framework skills.\n- Experience with model deployment (Docker, Kubernetes, cloud).\n- Knowledge of NLP, computer vision, or predictive modeling.\n\nNice-to-Haves:\n- Experience with MLOps pipelines.\n- Knowledge of big data tools.\n- Publications or contributions in ML projects.\n\nBenefits:\n- Competitive salary.\n- Remote or hybrid work options.\n- Opportunities to work on cutting-edge ML projects.\n- Collaborative and innovative team."
+  },
+  {
+    "id": 50,
+    "title": "Data Engineer",
+    "years_experience_required": 4,
+    "skills_required": ["SQL", "Python", "ETL", "Airflow", "Spark", "Hadoop", "Data Warehousing", "Cloud (AWS/GCP/Azure)", "Data Modeling", "Big Data Processing"],
+    "summary": "Design and maintain data pipelines and infrastructure for analytics and applications.",
+    "job_description": "We are hiring a Data Engineer to build robust data pipelines and manage large-scale datasets.\n\nResponsibilities:\n- Design and implement ETL processes.\n- Build data warehouses and maintain data models.\n- Ensure data quality, consistency, and security.\n- Collaborate with data scientists and analysts.\n\nRequirements:\n- 4+ years experience in data engineering.\n- Proficiency in SQL, Python, and ETL tools.\n- Experience with Spark, Hadoop, and big data technologies.\n- Knowledge of cloud platforms and data warehousing.\n\nNice-to-Haves:\n- Experience with real-time data streaming.\n- Familiarity with MLOps pipelines.\n- Strong problem-solving and collaboration skills.\n\nBenefits:\n- Competitive salary.\n- Flexible and remote-friendly work options.\n- Opportunities to work with large-scale data.\n- Innovative and collaborative data team."
+  }
+]

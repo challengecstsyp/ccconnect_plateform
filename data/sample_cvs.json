@@ -1,0 +1,1460 @@
+[
+  {
+    "id": 1,
+    "full_name": "Adam Ben Ali",
+    "title": "Senior Python Developer",
+    "years_experience": 6,
+    "skills": ["Python", "Django", "Flask", "FastAPI", "PostgreSQL", "MySQL", "AWS", "Docker", "Microservices"],
+    "summary": "Experienced Python Developer with 6 years of expertise in backend and API development. Strong command of microservices and cloud deployment.",
+    "experience": [
+      {
+        "role": "Python Developer",
+        "company": "TechNova",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Developed REST APIs with Django and FastAPI",
+          "Implemented microservices for high-traffic applications",
+          "Optimized databases and reduced query execution time by 40%",
+          "Deployed applications on AWS using Docker and EC2"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "University of Tunis"
+      }
+    ],
+    "cv_text": "Experienced Python Developer with 6 years of expertise in backend and API development. Strong command of microservices and cloud deployment. Developed REST APIs with Django and FastAPI, implemented microservices for high-traffic applications, optimized databases, and deployed applications on AWS using Docker and EC2."
+  },
+  {
+    "id": 2,
+    "full_name": "Sara Haddad",
+    "title": "Full Stack JavaScript Developer",
+    "years_experience": 4,
+    "skills": ["JavaScript", "React.js", "Node.js", "Express", "MongoDB", "TypeScript", "Next.js", "GraphQL"],
+    "summary": "Full Stack Developer specializing in JavaScript ecosystem, building production-ready web apps using modern frameworks.",
+    "experience": [
+      {
+        "role": "Full Stack Developer",
+        "company": "WebCore Solutions",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Built frontends with React and Next.js",
+          "Developed backend services using Node.js and Express",
+          "Implemented GraphQL APIs",
+          "Built real-time features using Socket.io"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Software Engineering",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Full Stack Developer specializing in JavaScript ecosystem, building production-ready web apps using React, Next.js, Node.js, Express, GraphQL, and Socket.io. Focused on clean code, testing, and high-performance applications."
+  },
+  {
+    "id": 3,
+    "full_name": "Mehdi Gharbi",
+    "title": "Data Scientist",
+    "years_experience": 5,
+    "skills": ["Python", "NumPy", "Pandas", "Scikit-Learn", "TensorFlow", "PyTorch", "Machine Learning", "Deep Learning", "Spark"],
+    "summary": "Data Scientist with extensive ML and deep learning experience, building predictive models for real-world applications.",
+    "experience": [
+      {
+        "role": "Data Scientist",
+        "company": "DataLab AI",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Built predictive models using scikit-learn",
+          "Developed neural networks with TensorFlow and PyTorch",
+          "Applied NLP and CV techniques",
+          "Worked with big data pipelines using Apache Spark"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Statistics",
+        "institution": "Faculty of Sciences Tunis"
+      }
+    ],
+    "cv_text": "Data Scientist with 5 years experience in machine learning and deep learning. Developed predictive models, NLP and CV solutions, and big data pipelines using Spark, TensorFlow, and PyTorch."
+  },
+  {
+    "id": 4,
+    "full_name": "Nadia Jlassi",
+    "title": "DevOps Engineer",
+    "years_experience": 7,
+    "skills": ["Kubernetes", "Docker", "AWS", "Jenkins", "GitLab CI", "Terraform", "Ansible", "Linux"],
+    "summary": "DevOps Engineer skilled in automation, cloud infrastructure, and CI/CD pipelines.",
+    "experience": [
+      {
+        "role": "DevOps Engineer",
+        "company": "CloudOpsX",
+        "duration": "2017–2024",
+        "responsibilities": [
+          "Deployed services on Kubernetes clusters",
+          "Built CI/CD pipelines with Jenkins and GitLab CI",
+          "Automated infrastructure using Terraform and Ansible",
+          "Managed AWS cloud environments"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Engineering",
+        "institution": "ENIT"
+      }
+    ],
+    "cv_text": "DevOps Engineer with 7 years experience in Kubernetes, Docker, AWS, CI/CD, and infrastructure automation using Terraform and Ansible."
+  },
+  {
+    "id": 5,
+    "full_name": "Bilel Messaoud",
+    "title": "Senior Mobile Developer",
+    "years_experience": 5,
+    "skills": ["iOS", "Android", "Swift", "Kotlin", "React Native", "UI/UX", "Mobile Performance"],
+    "summary": "Mobile Developer with expertise in native and cross-platform app development.",
+    "experience": [
+      {
+        "role": "Mobile Developer",
+        "company": "AppWorks",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Developed native iOS and Android apps",
+          "Used Swift and Kotlin for mobile development",
+          "Built cross-platform solutions with React Native",
+          "Optimized app performance and UI/UX"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Information Systems",
+        "institution": "IHEC Carthage"
+      }
+    ],
+    "cv_text": "Senior Mobile Developer experienced in iOS, Android, and React Native development, focused on UI/UX and high-performance mobile apps."
+  },
+
+  {
+    "id": 6,
+    "full_name": "Rania Saidi",
+    "title": "Frontend Developer",
+    "years_experience": 3,
+    "skills": ["React", "Vue.js", "JavaScript", "HTML5", "CSS3", "SASS", "Webpack", "WCAG"],
+    "summary": "Frontend developer creating responsive, accessible user interfaces.",
+    "experience": [
+      {
+        "role": "Frontend Developer",
+        "company": "PixelWeb",
+        "duration": "2021–2024",
+        "responsibilities": [
+          "Built modern user interfaces using React and Vue",
+          "Ensured accessibility compliance following WCAG",
+          "Developed e-commerce and SaaS frontends",
+          "Worked with SASS and Webpack"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Digital Design",
+        "institution": "ISAMM"
+      }
+    ],
+    "cv_text": "Frontend Developer focused on responsive, accessible web interfaces using React, Vue.js, and modern frontend tools."
+  },
+
+  {
+    "id": 7,
+    "full_name": "Anis Chouikha",
+    "title": "Cloud Solutions Architect",
+    "years_experience": 8,
+    "skills": ["AWS", "EC2", "Lambda", "S3", "CloudFormation", "RDS", "VPC", "Security"],
+    "summary": "Cloud Architect designing enterprise-scale systems with a focus on cost optimization and high availability.",
+    "experience": [
+      {
+        "role": "Cloud Architect",
+        "company": "CloudSphere",
+        "duration": "2016–2024",
+        "responsibilities": [
+          "Designed high-availability systems on AWS",
+          "Led cloud migration projects",
+          "Optimized cloud costs by 30%",
+          "Implemented secure VPC architectures"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Cloud Computing",
+        "institution": "SUP'COM"
+      }
+    ],
+    "cv_text": "Cloud Solutions Architect with 8 years of experience designing and deploying enterprise AWS solutions."
+  },
+
+  {
+    "id": 8,
+    "full_name": "Yassine Dridi",
+    "title": "Machine Learning Researcher",
+    "years_experience": 6,
+    "skills": ["Deep Learning", "NLP", "PyTorch", "TensorFlow", "Transformers", "BERT", "GPT", "Research"],
+    "summary": "ML researcher specializing in deep learning and NLP, with publications in top conferences.",
+    "experience": [
+      {
+        "role": "ML Researcher",
+        "company": "AI Research Lab",
+        "duration": "2018–2024",
+        "responsibilities": [
+          "Developed transformer-based NLP models",
+          "Published papers in NeurIPS and ACL",
+          "Built state-of-the-art classification systems",
+          "Trained large-scale deep learning models"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Computer Science",
+        "institution": "University of Paris-Saclay"
+      }
+    ],
+    "cv_text": "Machine Learning Researcher experienced in NLP, transformers, and deep learning research."
+  },
+
+  {
+    "id": 9,
+    "full_name": "Omar Boussetta",
+    "title": "Backend Software Engineer",
+    "years_experience": 6,
+    "skills": ["Java", "Spring Boot", "Microservices", "Kafka", "Kubernetes", "gRPC", "SQL", "NoSQL"],
+    "summary": "Backend engineer focused on distributed systems and cloud-native architectures.",
+    "experience": [
+      {
+        "role": "Backend Engineer",
+        "company": "SysTech",
+        "duration": "2018–2024",
+        "responsibilities": [
+          "Developed microservices using Spring Boot",
+          "Built event-driven architectures with Kafka",
+          "Deployed services on Kubernetes",
+          "Designed REST and gRPC APIs"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Engineering",
+        "institution": "ESPRIT"
+      }
+    ],
+    "cv_text": "Backend Software Engineer with 6 years building distributed systems using Java, Spring Boot, Kafka, and Kubernetes."
+  },
+
+  {
+    "id": 10,
+    "full_name": "Mariem Amri",
+    "title": "Cybersecurity Analyst",
+    "years_experience": 5,
+    "skills": ["SIEM", "Splunk", "ELK", "Penetration Testing", "Incident Response", "ISO 27001", "SOC 2", "Cryptography"],
+    "summary": "Cybersecurity professional experienced in threat detection and security compliance.",
+    "experience": [
+      {
+        "role": "Cybersecurity Analyst",
+        "company": "SecureWave",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Conducted vulnerability assessments",
+          "Performed penetration tests",
+          "Managed SIEM tools for threat monitoring",
+          "Ensured ISO 27001 compliance"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Cybersecurity",
+        "institution": "Higher Institute of Computer Science"
+      }
+    ],
+    "cv_text": "Cybersecurity Professional with 5 years experience in threat detection, SIEM, penetration testing, and ISO/SOC compliance."
+  },
+
+  {
+    "id": 11,
+    "full_name": "Selim Khelifi",
+    "title": "Software Engineer",
+    "years_experience": 4,
+    "skills": ["C#", ".NET", "ASP.NET", "SQL Server", "Azure", "REST APIs", "Unit Testing"],
+    "summary": "Software Engineer building robust backend applications and web services on Microsoft stack.",
+    "experience": [
+      {
+        "role": "Software Engineer",
+        "company": "SoftTech Solutions",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Developed web applications using C# and ASP.NET",
+          "Built RESTful APIs",
+          "Managed SQL Server databases",
+          "Deployed applications on Microsoft Azure"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "ENIS"
+      }
+    ],
+    "cv_text": "Software Engineer experienced in C#, .NET, ASP.NET, SQL Server, and Azure. Built backend services and web applications with RESTful APIs and cloud deployment."
+  },
+  {
+    "id": 12,
+    "full_name": "Imen Ghannouchi",
+    "title": "QA Engineer",
+    "years_experience": 3,
+    "skills": ["Selenium", "Cypress", "Test Automation", "Python", "Jenkins", "Bug Tracking"],
+    "summary": "QA Engineer focused on automated testing and quality assurance for web and mobile applications.",
+    "experience": [
+      {
+        "role": "QA Engineer",
+        "company": "TechQA",
+        "duration": "2021–2024",
+        "responsibilities": [
+          "Designed automated test scripts with Selenium and Cypress",
+          "Integrated tests in CI/CD pipelines with Jenkins",
+          "Performed regression and performance testing",
+          "Reported and tracked bugs using Jira"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Software Engineering",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "QA Engineer experienced in Selenium, Cypress, automated testing, Python scripting, and CI/CD integration using Jenkins."
+  },
+  {
+    "id": 13,
+    "full_name": "Fares Mansour",
+    "title": "AI Engineer",
+    "years_experience": 5,
+    "skills": ["Python", "PyTorch", "TensorFlow", "Computer Vision", "NLP", "Deep Learning", "OpenCV", "Transformers"],
+    "summary": "AI Engineer building and deploying machine learning models for computer vision and NLP applications.",
+    "experience": [
+      {
+        "role": "AI Engineer",
+        "company": "AI Solutions",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Developed CV and NLP models",
+          "Implemented transformers for text classification",
+          "Optimized models for production deployment",
+          "Worked with PyTorch and TensorFlow"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Artificial Intelligence",
+        "institution": "University of Sfax"
+      }
+    ],
+    "cv_text": "AI Engineer with 5 years experience in computer vision and NLP, using PyTorch, TensorFlow, OpenCV, and transformers for production-ready ML solutions."
+  },
+  {
+    "id": 14,
+    "full_name": "Leila Hammami",
+    "title": "UI/UX Designer",
+    "years_experience": 4,
+    "skills": ["Figma", "Adobe XD", "Sketch", "HTML", "CSS", "User Research", "Prototyping", "Wireframing"],
+    "summary": "UI/UX Designer creating intuitive and engaging user interfaces for web and mobile applications.",
+    "experience": [
+      {
+        "role": "UI/UX Designer",
+        "company": "CreativeApps",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Designed wireframes and prototypes using Figma and Adobe XD",
+          "Conducted user research and usability testing",
+          "Collaborated with developers to implement designs",
+          "Improved UI/UX for mobile-first applications"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Design",
+        "institution": "ISAMM"
+      }
+    ],
+    "cv_text": "UI/UX Designer with 4 years experience in Figma, Adobe XD, Sketch, wireframing, and user research for web and mobile applications."
+  },
+  {
+    "id": 15,
+    "full_name": "Mohamed Saad",
+    "title": "Cloud Engineer",
+    "years_experience": 6,
+    "skills": ["AWS", "Azure", "Docker", "Kubernetes", "Terraform", "CI/CD", "Monitoring", "Networking"],
+    "summary": "Cloud Engineer designing and managing scalable, secure, and highly available cloud infrastructure.",
+    "experience": [
+      {
+        "role": "Cloud Engineer",
+        "company": "SkyTech",
+        "duration": "2018–2024",
+        "responsibilities": [
+          "Deployed cloud infrastructure using AWS and Azure",
+          "Implemented CI/CD pipelines",
+          "Managed containerized applications with Docker and Kubernetes",
+          "Monitored systems and optimized cloud costs"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "ENIT"
+      }
+    ],
+    "cv_text": "Cloud Engineer experienced in AWS, Azure, Docker, Kubernetes, Terraform, CI/CD pipelines, and cloud monitoring."
+  },
+  {
+    "id": 16,
+    "full_name": "Amel Ben Romdhane",
+    "title": "Backend Node.js Developer",
+    "years_experience": 4,
+    "skills": ["Node.js", "Express", "MongoDB", "REST APIs", "GraphQL", "Docker", "TypeScript", "AWS"],
+    "summary": "Backend developer building scalable web applications and APIs with Node.js ecosystem.",
+    "experience": [
+      {
+        "role": "Backend Developer",
+        "company": "NodeTech",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Developed RESTful and GraphQL APIs",
+          "Designed and maintained MongoDB databases",
+          "Containerized applications with Docker",
+          "Deployed services on AWS"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Software Engineering",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Backend Node.js Developer experienced in Express, MongoDB, GraphQL, Docker, TypeScript, and AWS cloud deployment."
+  },
+  {
+    "id": 17,
+    "full_name": "Sofiene Jaziri",
+    "title": "Frontend Angular Developer",
+    "years_experience": 3,
+    "skills": ["Angular", "TypeScript", "HTML5", "CSS3", "JavaScript", "RxJS", "SASS", "Webpack"],
+    "summary": "Frontend developer creating dynamic and scalable applications using Angular.",
+    "experience": [
+      {
+        "role": "Frontend Developer",
+        "company": "WebSolutions",
+        "duration": "2021–2024",
+        "responsibilities": [
+          "Developed SPA applications using Angular",
+          "Managed state with RxJS",
+          "Styled UI using SASS and CSS3",
+          "Optimized frontend performance"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "ESPRIT"
+      }
+    ],
+    "cv_text": "Frontend Angular Developer experienced in TypeScript, Angular, RxJS, HTML5, CSS3, and SASS for responsive applications."
+  },
+  {
+    "id": 18,
+    "full_name": "Houssem Amri",
+    "title": "Data Engineer",
+    "years_experience": 5,
+    "skills": ["Python", "SQL", "ETL", "Airflow", "Spark", "Kafka", "Data Warehousing", "AWS"],
+    "summary": "Data Engineer designing ETL pipelines, big data processing, and cloud data architectures.",
+    "experience": [
+      {
+        "role": "Data Engineer",
+        "company": "DataWorks",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Built ETL pipelines using Python and Airflow",
+          "Processed big data using Spark",
+          "Implemented Kafka streams for real-time data",
+          "Designed data warehouses on AWS"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Data Engineering",
+        "institution": "Université de Tunis"
+      }
+    ],
+    "cv_text": "Data Engineer with expertise in ETL, Airflow, Spark, Kafka, data warehousing, and AWS cloud for big data solutions."
+  },
+
+  {
+    "id": 19,
+    "full_name": "Nadia Farhat",
+    "title": "Mobile App Developer",
+    "years_experience": 4,
+    "skills": ["Flutter", "Dart", "iOS", "Android", "REST APIs", "Firebase", "UI/UX"],
+    "summary": "Mobile App Developer building cross-platform applications using Flutter.",
+    "experience": [
+      {
+        "role": "Mobile Developer",
+        "company": "AppMakers",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Developed cross-platform mobile apps using Flutter",
+          "Integrated REST APIs and Firebase backend",
+          "Designed intuitive UI/UX",
+          "Maintained and updated existing apps"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Mobile App Developer experienced in Flutter, Dart, iOS, Android, REST APIs, Firebase, and mobile UI/UX design."
+  },
+  {
+    "id": 20,
+    "full_name": "Walid Ben Salah",
+    "title": "Full Stack Developer",
+    "years_experience": 5,
+    "skills": ["React", "Node.js", "Express", "MongoDB", "TypeScript", "GraphQL", "Docker", "AWS"],
+    "summary": "Full Stack Developer building modern web applications with React and Node.js.",
+    "experience": [
+      {
+        "role": "Full Stack Developer",
+        "company": "WebStack",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Built web apps with React, Node.js, and Express",
+          "Managed MongoDB databases",
+          "Implemented GraphQL APIs",
+          "Deployed apps on AWS using Docker containers"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Software Engineering",
+        "institution": "Université de Sfax"
+      }
+    ],
+    "cv_text": "Full Stack Developer with React, Node.js, Express, MongoDB, GraphQL, TypeScript, Docker, and AWS experience."
+  },
+  {
+    "id": 21,
+    "full_name": "Rim Kallel",
+    "title": "Cybersecurity Analyst",
+    "years_experience": 4,
+    "skills": ["Penetration Testing", "Network Security", "SIEM", "Firewalls", "Incident Response", "Python", "Wireshark"],
+    "summary": "Cybersecurity Analyst protecting systems and networks through security testing and monitoring.",
+    "experience": [
+      {
+        "role": "Cybersecurity Analyst",
+        "company": "SecureTech",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Conducted penetration testing and vulnerability assessments",
+          "Monitored security events using SIEM tools",
+          "Implemented network security measures",
+          "Responded to incidents and breaches"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Information Security",
+        "institution": "ENET'Com"
+      }
+    ],
+    "cv_text": "Cybersecurity Analyst skilled in penetration testing, SIEM, incident response, network security, Python, and Wireshark."
+  },
+  {
+    "id": 22,
+    "full_name": "Mourad Boussaïd",
+    "title": "AI Researcher",
+    "years_experience": 6,
+    "skills": ["Python", "TensorFlow", "PyTorch", "Deep Learning", "NLP", "Computer Vision", "Transformers", "Reinforcement Learning"],
+    "summary": "AI Researcher developing advanced machine learning and deep learning models.",
+    "experience": [
+      {
+        "role": "AI Researcher",
+        "company": "DeepAI Labs",
+        "duration": "2018–2024",
+        "responsibilities": [
+          "Researched and developed deep learning models",
+          "Implemented NLP and computer vision solutions",
+          "Applied transformer architectures for text tasks",
+          "Experimented with reinforcement learning projects"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Artificial Intelligence",
+        "institution": "Université de Tunis"
+      }
+    ],
+    "cv_text": "AI Researcher experienced in Python, TensorFlow, PyTorch, deep learning, NLP, computer vision, transformers, and reinforcement learning."
+  },
+  {
+    "id": 23,
+    "full_name": "Sami Karray",
+    "title": "Frontend React Developer",
+    "years_experience": 3,
+    "skills": ["React", "JavaScript", "HTML", "CSS", "Redux", "Webpack", "Responsive Design"],
+    "summary": "Frontend React Developer building responsive and interactive web applications.",
+    "experience": [
+      {
+        "role": "Frontend Developer",
+        "company": "ReactWorks",
+        "duration": "2021–2024",
+        "responsibilities": [
+          "Developed dynamic UI components with React",
+          "Managed application state using Redux",
+          "Built responsive interfaces with HTML and CSS",
+          "Optimized performance and accessibility"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Engineering",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Frontend React Developer experienced in React, JavaScript, Redux, HTML5, CSS3, responsive design, and web performance optimization."
+  },
+  {
+    "id": 24,
+    "full_name": "Yasmine Trabelsi",
+    "title": "Product Manager",
+    "years_experience": 5,
+    "skills": ["Agile", "Scrum", "Project Management", "JIRA", "Roadmap Planning", "Stakeholder Communication", "Business Analysis"],
+    "summary": "Product Manager leading software projects from concept to launch.",
+    "experience": [
+      {
+        "role": "Product Manager",
+        "company": "Innovatech",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Defined product roadmap and features",
+          "Managed agile sprints and teams",
+          "Communicated with stakeholders",
+          "Performed market and business analysis"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Business Administration",
+        "institution": "IHEC Carthage"
+      }
+    ],
+    "cv_text": "Product Manager experienced in agile, Scrum, JIRA, roadmap planning, stakeholder communication, and business analysis."
+  },
+  {
+    "id": 25,
+    "full_name": "Omar Ben Ali",
+    "title": "DevOps Engineer",
+    "years_experience": 6,
+    "skills": ["AWS", "Azure", "Docker", "Kubernetes", "Terraform", "CI/CD", "Monitoring", "Linux"],
+    "summary": "DevOps Engineer automating deployment pipelines and managing cloud infrastructure.",
+    "experience": [
+      {
+        "role": "DevOps Engineer",
+        "company": "CloudOps",
+        "duration": "2018–2024",
+        "responsibilities": [
+          "Implemented CI/CD pipelines using Jenkins and GitLab",
+          "Managed containerized applications with Docker and Kubernetes",
+          "Automated infrastructure with Terraform",
+          "Monitored cloud infrastructure on AWS and Azure"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "ENIT"
+      }
+    ],
+    "cv_text": "DevOps Engineer experienced in AWS, Azure, Docker, Kubernetes, Terraform, CI/CD, Linux administration, and monitoring."
+  },
+  {
+    "id": 26,
+    "full_name": "Fatma Kchouk",
+    "title": "Data Scientist",
+    "years_experience": 4,
+    "skills": ["Python", "R", "Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Matplotlib", "Data Analysis"],
+    "summary": "Data Scientist analyzing and modeling data to extract actionable insights.",
+    "experience": [
+      {
+        "role": "Data Scientist",
+        "company": "DataMind",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Developed predictive models using Python and R",
+          "Performed data cleaning and analysis with Pandas and NumPy",
+          "Visualized data insights using Matplotlib and Seaborn",
+          "Implemented ML models with Scikit-learn and TensorFlow"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Data Science",
+        "institution": "Université de Sousse"
+      }
+    ],
+    "cv_text": "Data Scientist skilled in Python, R, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, and data analysis for predictive insights."
+  },
+  {
+    "id": 27,
+    "full_name": "Karim Louati",
+    "title": "Backend Python Developer",
+    "years_experience": 5,
+    "skills": ["Python", "Django", "Flask", "PostgreSQL", "MySQL", "REST APIs", "Celery", "Docker"],
+    "summary": "Backend Python Developer building scalable APIs and web services.",
+    "experience": [
+      {
+        "role": "Backend Developer",
+        "company": "PyDev Solutions",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Built web services using Django and Flask",
+          "Managed PostgreSQL and MySQL databases",
+          "Implemented REST APIs and asynchronous tasks with Celery",
+          "Containerized apps using Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Backend Python Developer experienced in Django, Flask, PostgreSQL, MySQL, REST APIs, Celery, and Docker for scalable applications."
+  },
+  {
+    "id": 28,
+    "full_name": "Rania Ben Youssef",
+    "title": "Software Engineer",
+    "years_experience": 3,
+    "skills": ["Java", "Spring Boot", "REST APIs", "Microservices", "SQL", "Maven", "Git"],
+    "summary": "Software Engineer developing enterprise-grade backend applications in Java.",
+    "experience": [
+      {
+        "role": "Software Engineer",
+        "company": "EnterpriseSoft",
+        "duration": "2021–2024",
+        "responsibilities": [
+          "Developed microservices using Spring Boot",
+          "Implemented REST APIs",
+          "Managed SQL databases",
+          "Participated in agile development and code reviews"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Engineering",
+        "institution": "ENIS"
+      }
+    ],
+    "cv_text": "Software Engineer experienced in Java, Spring Boot, REST APIs, microservices, SQL, Maven, and Git."
+  },
+  
+  {
+    "id": 29,
+    "full_name": "Amine Jaziri",
+    "title": "Cloud Engineer",
+    "years_experience": 5,
+    "skills": ["AWS", "Azure", "GCP", "Terraform", "Docker", "Kubernetes", "CI/CD", "Monitoring"],
+    "summary": "Cloud Engineer managing scalable cloud infrastructure and deployment pipelines.",
+    "experience": [
+      {
+        "role": "Cloud Engineer",
+        "company": "CloudWorks",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Managed AWS, Azure, and GCP resources",
+          "Implemented infrastructure as code with Terraform",
+          "Containerized applications using Docker and Kubernetes",
+          "Designed CI/CD pipelines and monitoring solutions"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Cloud Engineer skilled in AWS, Azure, GCP, Terraform, Docker, Kubernetes, CI/CD, and monitoring cloud infrastructure."
+  },
+  {
+    "id": 30,
+    "full_name": "Hind Trabelsi",
+    "title": "Data Engineer",
+    "years_experience": 4,
+    "skills": ["Python", "SQL", "ETL", "Spark", "Airflow", "BigQuery", "Data Warehousing", "AWS"],
+    "summary": "Data Engineer building pipelines and data warehouses for analytics and ML.",
+    "experience": [
+      {
+        "role": "Data Engineer",
+        "company": "DataFlow",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Built ETL pipelines using Python and SQL",
+          "Processed large datasets with Spark",
+          "Orchestrated workflows with Airflow",
+          "Designed data warehouses on BigQuery and AWS"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Data Engineering",
+        "institution": "Université de Sfax"
+      }
+    ],
+    "cv_text": "Data Engineer experienced in Python, SQL, ETL, Spark, Airflow, BigQuery, AWS, and data warehousing."
+  },
+  {
+    "id": 31,
+    "full_name": "Lotfi Hmida",
+    "title": "Software Architect",
+    "years_experience": 10,
+    "skills": ["Java", "Spring Boot", "Microservices", "REST APIs", "Design Patterns", "Cloud Architecture", "Docker", "Kubernetes"],
+    "summary": "Software Architect designing scalable and maintainable enterprise applications.",
+    "experience": [
+      {
+        "role": "Software Architect",
+        "company": "TechDesign",
+        "duration": "2014–2024",
+        "responsibilities": [
+          "Designed microservices architectures with Spring Boot",
+          "Defined coding standards and design patterns",
+          "Deployed cloud-based applications using Docker and Kubernetes",
+          "Guided development teams on best practices"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Software Engineering",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Software Architect skilled in Java, Spring Boot, microservices, REST APIs, design patterns, cloud architecture, Docker, and Kubernetes."
+  },
+  {
+    "id": 32,
+    "full_name": "Sarra Ben Romdhane",
+    "title": "Machine Learning Engineer",
+    "years_experience": 5,
+    "skills": ["Python", "PyTorch", "TensorFlow", "NLP", "Computer Vision", "Scikit-learn", "Data Analysis", "Docker"],
+    "summary": "ML Engineer designing and deploying machine learning models for real-world applications.",
+    "experience": [
+      {
+        "role": "ML Engineer",
+        "company": "AI Solutions",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Developed NLP and computer vision models",
+          "Implemented ML pipelines in Python with PyTorch and TensorFlow",
+          "Performed data analysis and preprocessing",
+          "Containerized ML applications with Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Artificial Intelligence",
+        "institution": "Université de Tunis"
+      }
+    ],
+    "cv_text": "Machine Learning Engineer experienced in Python, PyTorch, TensorFlow, NLP, computer vision, Scikit-learn, data analysis, and Docker."
+  },
+  {
+    "id": 33,
+    "full_name": "Khaled Mekki",
+    "title": "Frontend Angular Developer",
+    "years_experience": 4,
+    "skills": ["Angular", "TypeScript", "HTML", "CSS", "RxJS", "NgRx", "Responsive Design", "UI/UX"],
+    "summary": "Frontend Angular Developer creating interactive web applications with modern frameworks.",
+    "experience": [
+      {
+        "role": "Frontend Developer",
+        "company": "WebPro",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Built dynamic UI components with Angular and TypeScript",
+          "Managed state with RxJS and NgRx",
+          "Implemented responsive web designs",
+          "Optimized frontend performance and accessibility"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Frontend Angular Developer skilled in Angular, TypeScript, RxJS, NgRx, HTML, CSS, responsive design, and UI/UX."
+  },
+  {
+    "id": 34,
+    "full_name": "Rim Chaabene",
+    "title": "QA Engineer",
+    "years_experience": 3,
+    "skills": ["Selenium", "Cypress", "Test Automation", "Manual Testing", "Jira", "Python", "CI/CD", "API Testing"],
+    "summary": "QA Engineer ensuring software quality through automated and manual testing.",
+    "experience": [
+      {
+        "role": "QA Engineer",
+        "company": "QualitySoft",
+        "duration": "2021–2024",
+        "responsibilities": [
+          "Created automated test scripts with Selenium and Cypress",
+          "Performed manual testing and bug tracking",
+          "Integrated tests into CI/CD pipelines",
+          "Conducted API testing and regression testing"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Software Engineering",
+        "institution": "ENIS"
+      }
+    ],
+    "cv_text": "QA Engineer experienced in Selenium, Cypress, test automation, manual testing, Jira, Python, CI/CD, and API testing."
+  },
+  {
+    "id": 35,
+    "full_name": "Mohamed Ali",
+    "title": "Network Engineer",
+    "years_experience": 6,
+    "skills": ["Cisco", "Routing", "Switching", "Firewalls", "Network Security", "VPN", "Wireshark", "Troubleshooting"],
+    "summary": "Network Engineer designing and maintaining secure and efficient networks.",
+    "experience": [
+      {
+        "role": "Network Engineer",
+        "company": "NetSecure",
+        "duration": "2018–2024",
+        "responsibilities": [
+          "Configured routers, switches, and firewalls",
+          "Implemented secure VPNs and network monitoring",
+          "Troubleshot network issues and optimized performance",
+          "Ensured network security and compliance"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Telecommunications",
+        "institution": "ENIT"
+      }
+    ],
+    "cv_text": "Network Engineer skilled in Cisco devices, routing, switching, firewalls, VPN, Wireshark, network security, and troubleshooting."
+  },
+  {
+    "id": 36,
+    "full_name": "Sofien Bensaid",
+    "title": "DevOps Specialist",
+    "years_experience": 5,
+    "skills": ["AWS", "Docker", "Kubernetes", "Terraform", "CI/CD", "Linux", "Ansible", "Monitoring"],
+    "summary": "DevOps Specialist automating infrastructure deployment and monitoring.",
+    "experience": [
+      {
+        "role": "DevOps Specialist",
+        "company": "InfraCloud",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Automated deployment pipelines with CI/CD",
+          "Managed cloud resources in AWS",
+          "Orchestrated containers with Docker and Kubernetes",
+          "Implemented infrastructure as code with Terraform and Ansible"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Engineering",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "DevOps Specialist experienced in AWS, Docker, Kubernetes, Terraform, CI/CD, Linux, Ansible, and monitoring."
+  },
+  {
+    "id": 37,
+    "full_name": "Leila Hamdi",
+    "title": "Business Analyst",
+    "years_experience": 4,
+    "skills": ["Requirements Analysis", "Data Modeling", "SQL", "Excel", "Power BI", "Stakeholder Communication", "Process Improvement", "Agile"],
+    "summary": "Business Analyst bridging technical and business teams for project success.",
+    "experience": [
+      {
+        "role": "Business Analyst",
+        "company": "BizTech",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Gathered and analyzed business requirements",
+          "Modeled data and performed analysis using SQL and Excel",
+          "Created reports and dashboards in Power BI",
+          "Facilitated communication between stakeholders and technical teams"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Business Analytics",
+        "institution": "IHEC Carthage"
+      }
+    ],
+    "cv_text": "Business Analyst skilled in requirements analysis, data modeling, SQL, Excel, Power BI, stakeholder communication, process improvement, and Agile methodologies."
+  },
+  {
+    "id": 38,
+    "full_name": "Anis Jebali",
+    "title": "Backend Node.js Developer",
+    "years_experience": 5,
+    "skills": ["Node.js", "Express", "MongoDB", "REST APIs", "GraphQL", "Docker", "Microservices", "AWS"],
+    "summary": "Backend Developer specializing in Node.js and microservices architecture.",
+    "experience": [
+      {
+        "role": "Backend Developer",
+        "company": "NodeWorks",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Built backend services with Node.js and Express",
+          "Managed MongoDB databases",
+          "Implemented REST and GraphQL APIs",
+          "Deployed applications on AWS using Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Backend Node.js Developer experienced in Node.js, Express, MongoDB, REST APIs, GraphQL, Docker, microservices, and AWS."
+  },
+  {
+    "id": 39,
+    "full_name": "Rania Abid",
+    "title": "UI/UX Designer",
+    "years_experience": 4,
+    "skills": ["Figma", "Sketch", "Adobe XD", "Prototyping", "Wireframing", "User Research", "Design Systems", "HTML/CSS Basics"],
+    "summary": "UI/UX Designer crafting user-centered interfaces and experiences.",
+    "experience": [
+      {
+        "role": "UI/UX Designer",
+        "company": "DesignHub",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Designed wireframes and prototypes in Figma and Sketch",
+          "Conducted user research and testing",
+          "Implemented design systems and UI guidelines",
+          "Collaborated with developers for frontend implementation"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Design",
+        "institution": "ESAC"
+      }
+    ],
+    "cv_text": "UI/UX Designer skilled in Figma, Sketch, Adobe XD, prototyping, wireframing, user research, design systems, and HTML/CSS basics."
+  },
+  {
+    "id": 40,
+    "full_name": "Mohamed Slim",
+    "title": "AI Engineer",
+    "years_experience": 6,
+    "skills": ["Python", "TensorFlow", "PyTorch", "Deep Learning", "Computer Vision", "NLP", "ML Pipelines", "Docker"],
+    "summary": "AI Engineer developing deep learning models for real-world applications.",
+    "experience": [
+      {
+        "role": "AI Engineer",
+        "company": "SmartAI",
+        "duration": "2018–2024",
+        "responsibilities": [
+          "Built and trained deep learning models",
+          "Worked on NLP and computer vision projects",
+          "Created ML pipelines and automated workflows",
+          "Containerized applications using Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Artificial Intelligence",
+        "institution": "Université de Tunis"
+      }
+    ],
+    "cv_text": "AI Engineer experienced in Python, TensorFlow, PyTorch, deep learning, computer vision, NLP, ML pipelines, and Docker."
+  },
+  {
+    "id": 41,
+    "full_name": "Youssef Ben Hassen",
+    "title": "Software Developer",
+    "years_experience": 3,
+    "skills": ["C#", ".NET", "ASP.NET Core", "SQL Server", "REST APIs", "Entity Framework", "Agile", "Git"],
+    "summary": "Software Developer building web applications using .NET technologies.",
+    "experience": [
+      {
+        "role": "Software Developer",
+        "company": "SoftDev",
+        "duration": "2021–2024",
+        "responsibilities": [
+          "Developed web applications with C# and ASP.NET Core",
+          "Managed SQL Server databases and Entity Framework",
+          "Implemented REST APIs and backend logic",
+          "Participated in Agile development and code reviews"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Software Developer skilled in C#, .NET, ASP.NET Core, SQL Server, REST APIs, Entity Framework, Agile, and Git."
+  },
+  {
+    "id": 42,
+    "full_name": "Amira Khlifi",
+    "title": "Front-end Developer",
+    "years_experience": 4,
+    "skills": ["React", "JavaScript", "TypeScript", "HTML", "CSS", "SASS", "Responsive Design", "Webpack"],
+    "summary": "Front-end Developer creating responsive and interactive web interfaces.",
+    "experience": [
+      {
+        "role": "Frontend Developer",
+        "company": "WebInnov",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Developed interactive web interfaces with React and TypeScript",
+          "Built responsive layouts with HTML, CSS, and SASS",
+          "Configured frontend build processes with Webpack",
+          "Optimized web performance and accessibility"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Computer Engineering",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Front-end Developer experienced in React, JavaScript, TypeScript, HTML, CSS, SASS, responsive design, and Webpack."
+  },
+  {
+    "id": 43,
+    "full_name": "Marwen Ben Amor",
+    "title": "Full Stack Developer",
+    "years_experience": 5,
+    "skills": ["Python", "Django", "React", "REST APIs", "PostgreSQL", "Docker", "AWS", "GraphQL"],
+    "summary": "Full Stack Developer building scalable web applications with Python and React.",
+    "experience": [
+      {
+        "role": "Full Stack Developer",
+        "company": "DevWorks",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Developed web applications with Django and React",
+          "Implemented REST and GraphQL APIs",
+          "Managed PostgreSQL databases",
+          "Deployed apps on AWS with Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Software Engineering",
+        "institution": "Université de Sfax"
+      }
+    ],
+    "cv_text": "Full Stack Developer experienced in Python, Django, React, REST APIs, PostgreSQL, Docker, AWS, and GraphQL."
+  },
+  {
+    "id": 44,
+    "full_name": "Nada Fakhfakh",
+    "title": "Business Intelligence Analyst",
+    "years_experience": 4,
+    "skills": ["SQL", "Power BI", "Tableau", "Excel", "Data Analysis", "Reporting", "ETL", "Dashboards"],
+    "summary": "BI Analyst turning data into actionable insights and reports.",
+    "experience": [
+      {
+        "role": "BI Analyst",
+        "company": "DataVision",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Created dashboards and reports in Power BI and Tableau",
+          "Performed data analysis using SQL and Excel",
+          "Developed ETL pipelines for data integration",
+          "Provided insights to business stakeholders"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Business Intelligence",
+        "institution": "IHEC Carthage"
+      }
+    ],
+    "cv_text": "Business Intelligence Analyst skilled in SQL, Power BI, Tableau, Excel, data analysis, reporting, ETL, and dashboard creation."
+  },
+  {
+    "id": 45,
+    "full_name": "Slim Khlifi",
+    "title": "Embedded Systems Engineer",
+    "years_experience": 6,
+    "skills": ["C", "C++", "Microcontrollers", "RTOS", "Embedded Linux", "IoT", "Circuit Design", "Debugging"],
+    "summary": "Embedded Systems Engineer developing IoT and hardware-software integrated solutions.",
+    "experience": [
+      {
+        "role": "Embedded Systems Engineer",
+        "company": "IoTTech",
+        "duration": "2018–2024",
+        "responsibilities": [
+          "Developed firmware for microcontrollers in C/C++",
+          "Worked with RTOS and embedded Linux",
+          "Designed IoT circuits and sensors",
+          "Performed debugging and hardware-software integration"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Embedded Systems",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Embedded Systems Engineer experienced in C, C++, microcontrollers, RTOS, embedded Linux, IoT, circuit design, and debugging."
+  },
+  {
+    "id": 46,
+    "full_name": "Rym Bouazizi",
+    "title": "Machine Learning Scientist",
+    "years_experience": 5,
+    "skills": ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "NLP", "Deep Learning", "Data Analysis", "Model Deployment"],
+    "summary": "ML Scientist developing predictive models and deploying AI solutions.",
+    "experience": [
+      {
+        "role": "ML Scientist",
+        "company": "AI Lab",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Developed NLP and predictive models",
+          "Performed data preprocessing and analysis",
+          "Built deep learning architectures using TensorFlow and PyTorch",
+          "Deployed models into production environments"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD",
+        "field": "Machine Learning",
+        "institution": "Université de Tunis"
+      }
+    ],
+    "cv_text": "Machine Learning Scientist experienced in Python, TensorFlow, PyTorch, Scikit-learn, NLP, deep learning, data analysis, and model deployment."
+  },
+  {
+    "id": 47,
+    "full_name": "Khalil Gharbi",
+    "title": "Blockchain Developer",
+    "years_experience": 4,
+    "skills": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "Node.js", "Truffle", "Ganache", "DApps"],
+    "summary": "Blockchain Developer building decentralized applications on Ethereum.",
+    "experience": [
+      {
+        "role": "Blockchain Developer",
+        "company": "ChainTech",
+        "duration": "2020–2024",
+        "responsibilities": [
+          "Developed smart contracts in Solidity",
+          "Built DApps using Web3.js and Node.js",
+          "Tested contracts with Truffle and Ganache",
+          "Implemented blockchain solutions for enterprises"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Computer Science",
+        "institution": "INSAT"
+      }
+    ],
+    "cv_text": "Blockchain Developer skilled in Solidity, Ethereum, smart contracts, Web3.js, Node.js, Truffle, Ganache, and DApps."
+  },
+  {
+    "id": 48,
+    "full_name": "Faten Mejri",
+    "title": "Product Owner",
+    "years_experience": 5,
+    "skills": ["Agile", "Scrum", "Product Roadmap", "JIRA", "Stakeholder Management", "User Stories", "Backlog Management", "Prioritization"],
+    "summary": "Product Owner driving product vision and managing agile teams.",
+    "experience": [
+      {
+        "role": "Product Owner",
+        "company": "InnoTech",
+        "duration": "2019–2024",
+        "responsibilities": [
+          "Defined product vision and roadmap",
+          "Managed backlog and prioritized user stories",
+          "Collaborated with stakeholders and development teams",
+          "Ensured delivery of high-quality products"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Business Administration",
+        "institution": "IHEC Carthage"
+      }
+    ],
+    "cv_text": "Product Owner experienced in Agile, Scrum, product roadmap planning, JIRA, stakeholder management, user stories, backlog management, and prioritization."
+  },
+  {
+    "id": 49,
+    "full_name": "Amel Baccar",
+    "title": "Data Analyst",
+    "years_experience": 3,
+    "skills": ["Excel", "SQL", "Python", "Power BI", "Tableau", "Data Visualization", "Reporting", "Data Cleaning"],
+    "summary": "Data Analyst transforming raw data into actionable insights and reports.",
+    "experience": [
+      {
+        "role": "Data Analyst",
+        "company": "InsightData",
+        "duration": "2021–2024",
+        "responsibilities": [
+          "Performed data cleaning and analysis using Python and SQL",
+          "Created dashboards and visualizations in Power BI and Tableau",
+          "Generated reports for business stakeholders",
+          "Collaborated with teams to improve data processes"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's",
+        "field": "Statistics",
+        "institution": "Université de Sousse"
+      }
+    ],
+    "cv_text": "Data Analyst skilled in Excel, SQL, Python, Power BI, Tableau, data visualization, reporting, and data cleaning."
+  },
+  {
+    "id": 50,
+    "full_name": "Samiya Jebali",
+    "title": "AI & Data Engineer",
+    "years_experience": 6,
+    "skills": ["Python", "TensorFlow", "PyTorch", "Spark", "Hadoop", "ETL", "Big Data", "Machine Learning"],
+    "summary": "AI & Data Engineer building scalable data pipelines and ML solutions.",
+    "experience": [
+      {
+        "role": "AI & Data Engineer",
+        "company": "BigData Solutions",
+        "duration": "2018–2024",
+        "responsibilities": [
+          "Built big data pipelines with Spark and Hadoop",
+          "Developed machine learning models using Python, TensorFlow, and PyTorch",
+          "Performed ETL and data preprocessing",
+          "Optimized ML workflows for production deployment"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's",
+        "field": "Data Science & AI",
+        "institution": "Université de Tunis"
+      }
+    ],
+    "cv_text": "AI & Data Engineer experienced in Python, TensorFlow, PyTorch, Spark, Hadoop, ETL, big data, and machine learning solutions."
+  }
+]
