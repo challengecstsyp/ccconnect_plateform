@@ -1,0 +1,21 @@
+{
+  "interview_id": "c2a817c3-09f3-4c58-a537-5e6d1d052575",
+  "settings": {
+    "job_title": "react developer",
+    "num_questions": 10,
+    "soft_pct": 0.3,
+    "initial_level": 3,
+    "keywords": [
+      "react developer"
+    ],
+    "language": "en",
+    "profile_brief": null
+  },
+  "questions": [],
+  "state": {
+    "current_level": 3,
+    "asked_count": 0,
+    "recent_scores": []
+  },
+  "summary": null
+}

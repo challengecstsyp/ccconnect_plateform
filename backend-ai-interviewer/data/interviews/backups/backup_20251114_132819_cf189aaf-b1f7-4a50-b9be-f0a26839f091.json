@@ -1,0 +1,182 @@
+{
+  "interview_id": "cf189aaf-b1f7-4a50-b9be-f0a26839f091",
+  "settings": {
+    "job_title": "h",
+    "num_questions": 10,
+    "soft_pct": 0.3,
+    "initial_level": 3,
+    "keywords": [
+      "h"
+    ],
+    "language": "en",
+    "profile_brief": null
+  },
+  "questions": [
+    {
+      "q_id": 1,
+      "question_id": "pwcoW6PJ",
+      "text": "What three elements must be present for performance feedback to be perceived as fair and effective by employees?",
+      "type": "soft",
+      "level": 3,
+      "topics": [
+        "performance feedback",
+        "fairness",
+        "employee perception"
+      ],
+      "estimated_time": 35,
+      "context": "",
+      "candidate_answer": "fdgs",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "The response “fdgs” does not address the question at all; it offers no information about the elements required for performance feedback to be perceived as fair and effective. As a result, the answer scores at the bottom of all evaluation criteria. For a mid‑level position, interviewers expect candidates to articulate the three core elements—typically clarity/specificity, timeliness, and a balanced, behavior‑focused approach (or similar frameworks such as consistency, objectivity, and developmental focus). To improve, you should study common models of effective feedback, practice summarizing them concisely, and present your answer in a structured format (e.g., list each element with a brief explanation). Demonstrating this knowledge will show the analytical and communication skills expected for the role.",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": -1,
+        "strengths": [
+          "None evident in this response."
+        ],
+        "improvements": [
+          "Provide a substantive answer that directly addresses the question.",
+          "Demonstrate understanding of key concepts related to fair and effective performance feedback.",
+          "Organize thoughts clearly and use appropriate terminology."
+        ]
+      }
+    },
+    {
+      "q_id": 2,
+      "question_id": "qSuH1EDa",
+      "text": "Which two HTML tags are used to create an ordered (numbered) list and an unordered (bulleted) list?",
+      "type": "technical",
+      "level": 2,
+      "topics": [
+        "HTML",
+        "list elements",
+        "tags"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sdfg",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": -1,
+        "strengths": [],
+        "improvements": []
+      }
+    },
+    {
+      "q_id": 3,
+      "question_id": "hBYBNLRo",
+      "text": "What does the `<h1>` tag represent in HTML, and how does it differ from an `<h2>` tag?",
+      "type": "technical",
+      "level": 1,
+      "topics": [
+        "HTML headings",
+        "semantic markup"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "dfg",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [],
+        "improvements": []
+      }
+    },
+    {
+      "q_id": 4,
+      "question_id": "5YgMd0qp",
+      "text": "What is the purpose of the HTML `<head>` section and name two types of elements that are typically placed inside it?",
+      "type": "technical",
+      "level": 1,
+      "topics": [
+        "HTML",
+        "<head> element",
+        "metadata"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sdfg",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [],
+        "improvements": []
+      }
+    },
+    {
+      "q_id": 5,
+      "question_id": "PpD3piMA",
+      "text": "What is “active listening” and why is it important in a collaborative work environment?",
+      "type": "soft",
+      "level": 1,
+      "topics": [
+        "communication",
+        "teamwork",
+        "soft skills"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sdfg",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "The response “sdfg” does not address the interview question at all; it offers no information about what active listening is, why it matters in a collaborative environment, or how it applies to the role. For an entry‑level position, interviewers expect a concise yet complete explanation that includes the definition of active listening (e.g., fully concentrating, understanding, responding, and remembering what others say), its benefits (building trust, reducing misunderstandings, improving teamwork), and perhaps a brief example of how you would use it on the job. In future answers, focus on delivering clear, structured content that directly answers the prompt, uses appropriate terminology, and demonstrates your communication skills—key qualities for the “h” role.",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [
+          "None demonstrated in this response."
+        ],
+        "improvements": [
+          "Provide a substantive answer that directly addresses the question.",
+          "Show understanding of the concept of active listening and its relevance to teamwork.",
+          "Organize thoughts clearly with proper sentence structure and relevant examples."
+        ]
+      }
+    }
+  ],
+  "state": {
+    "current_level": 1,
+    "asked_count": 5,
+    "recent_scores": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  "summary": null
+}

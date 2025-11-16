@@ -1,0 +1,377 @@
+{
+  "interview_id": "cf189aaf-b1f7-4a50-b9be-f0a26839f091",
+  "settings": {
+    "job_title": "h",
+    "num_questions": 10,
+    "soft_pct": 0.3,
+    "initial_level": 3,
+    "keywords": [
+      "h"
+    ],
+    "language": "en",
+    "profile_brief": null
+  },
+  "questions": [
+    {
+      "q_id": 1,
+      "question_id": "pwcoW6PJ",
+      "text": "What three elements must be present for performance feedback to be perceived as fair and effective by employees?",
+      "type": "soft",
+      "level": 3,
+      "topics": [
+        "performance feedback",
+        "fairness",
+        "employee perception"
+      ],
+      "estimated_time": 35,
+      "context": "",
+      "candidate_answer": "fdgs",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "The response “fdgs” does not address the question at all; it offers no information about the elements required for performance feedback to be perceived as fair and effective. As a result, the answer scores at the bottom of all evaluation criteria. For a mid‑level position, interviewers expect candidates to articulate the three core elements—typically clarity/specificity, timeliness, and a balanced, behavior‑focused approach (or similar frameworks such as consistency, objectivity, and developmental focus). To improve, you should study common models of effective feedback, practice summarizing them concisely, and present your answer in a structured format (e.g., list each element with a brief explanation). Demonstrating this knowledge will show the analytical and communication skills expected for the role.",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": -1,
+        "strengths": [
+          "None evident in this response."
+        ],
+        "improvements": [
+          "Provide a substantive answer that directly addresses the question.",
+          "Demonstrate understanding of key concepts related to fair and effective performance feedback.",
+          "Organize thoughts clearly and use appropriate terminology."
+        ]
+      }
+    },
+    {
+      "q_id": 2,
+      "question_id": "qSuH1EDa",
+      "text": "Which two HTML tags are used to create an ordered (numbered) list and an unordered (bulleted) list?",
+      "type": "technical",
+      "level": 2,
+      "topics": [
+        "HTML",
+        "list elements",
+        "tags"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sdfg",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": -1,
+        "strengths": [],
+        "improvements": []
+      }
+    },
+    {
+      "q_id": 3,
+      "question_id": "hBYBNLRo",
+      "text": "What does the `<h1>` tag represent in HTML, and how does it differ from an `<h2>` tag?",
+      "type": "technical",
+      "level": 1,
+      "topics": [
+        "HTML headings",
+        "semantic markup"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "dfg",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [],
+        "improvements": []
+      }
+    },
+    {
+      "q_id": 4,
+      "question_id": "5YgMd0qp",
+      "text": "What is the purpose of the HTML `<head>` section and name two types of elements that are typically placed inside it?",
+      "type": "technical",
+      "level": 1,
+      "topics": [
+        "HTML",
+        "<head> element",
+        "metadata"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sdfg",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [],
+        "improvements": []
+      }
+    },
+    {
+      "q_id": 5,
+      "question_id": "PpD3piMA",
+      "text": "What is “active listening” and why is it important in a collaborative work environment?",
+      "type": "soft",
+      "level": 1,
+      "topics": [
+        "communication",
+        "teamwork",
+        "soft skills"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sdfg",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "The response “sdfg” does not address the interview question at all; it offers no information about what active listening is, why it matters in a collaborative environment, or how it applies to the role. For an entry‑level position, interviewers expect a concise yet complete explanation that includes the definition of active listening (e.g., fully concentrating, understanding, responding, and remembering what others say), its benefits (building trust, reducing misunderstandings, improving teamwork), and perhaps a brief example of how you would use it on the job. In future answers, focus on delivering clear, structured content that directly answers the prompt, uses appropriate terminology, and demonstrates your communication skills—key qualities for the “h” role.",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [
+          "None demonstrated in this response."
+        ],
+        "improvements": [
+          "Provide a substantive answer that directly addresses the question.",
+          "Show understanding of the concept of active listening and its relevance to teamwork.",
+          "Organize thoughts clearly with proper sentence structure and relevant examples."
+        ]
+      }
+    },
+    {
+      "q_id": 6,
+      "question_id": "N4jOMyfg",
+      "text": "How many heading elements are defined in HTML and what are their tag names?",
+      "type": "technical",
+      "level": 1,
+      "topics": [
+        "HTML",
+        "Semantic markup",
+        "Headings"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sdfg",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [
+          "Attempted to provide a response (even though it was nonsensical)",
+          "Minimal effort to write something in the answer field"
+        ],
+        "improvements": [
+          "Review basic HTML concepts, specifically the heading elements (`<h1>`–`<h6>`)",
+          "Practice answering questions directly and concisely, ensuring the response addresses the prompt",
+          "Improve written communication by structuring answers clearly and using relevant terminology"
+        ]
+      }
+    },
+    {
+      "q_id": 7,
+      "question_id": "Ud4sty2A",
+      "text": "What does the HTTP status code 404 indicate?",
+      "type": "technical",
+      "level": 1,
+      "topics": [
+        "HTTP",
+        "status codes",
+        "web fundamentals"
+      ],
+      "estimated_time": 2,
+      "context": "",
+      "candidate_answer": "gfsd",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "The response “gfsd” does not address the question at all; it appears to be random keystrokes rather than an answer. For an entry‑level position, the expectation is that the candidate can at least state that HTTP status code 404 means “Not Found,” indicating that the requested resource could not be located on the server. A good answer would briefly explain the typical scenarios that trigger a 404 (e.g., broken links, mistyped URLs) and might mention that it is a client‑error response in the 4xx class. Moving forward, focus on mastering fundamental web concepts, practicing concise technical explanations, and ensuring that every answer directly responds to the prompt. This will greatly improve both the relevance and clarity of your responses.",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [
+          "Attempted to provide an answer (even though it was nonsensical)."
+        ],
+        "improvements": [
+          "Demonstrate basic knowledge of HTTP status codes.",
+          "Provide a clear, complete, and accurate description of what a 404 status means.",
+          "Structure the response in a readable format (e.g., a short sentence or a brief explanation)."
+        ]
+      }
+    },
+    {
+      "q_id": 8,
+      "question_id": "7dGx2vij",
+      "text": "What does “psychological safety” mean in a team setting?",
+      "type": "soft",
+      "level": 1,
+      "topics": [
+        "psychological safety",
+        "team dynamics",
+        "communication"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sdfg",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "The response “sdfg” does not address the question at all; it appears to be random keystrokes rather than an answer. For an entry‑level or junior position, interviewers expect a concise definition of psychological safety—e.g., a shared belief that the team is safe for interpersonal risk‑taking, where members feel comfortable speaking up, admitting mistakes, and offering ideas without fear of ridicule or retaliation. A good answer would also touch on why psychological safety matters for collaboration, learning, and performance, and perhaps give a brief example of how it can be fostered (e.g., encouraging open dialogue, showing appreciation for diverse viewpoints). In future responses, focus on delivering a clear, relevant answer that demonstrates your understanding of the concept and its relevance to team dynamics. This will allow interviewers to assess your communication skills and grasp of fundamental soft‑skill topics.",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [
+          "None evident in the provided response."
+        ],
+        "improvements": [
+          "Provide an answer that directly addresses the question.",
+          "Demonstrate basic understanding of psychological safety concepts.",
+          "Structure the response clearly with concise sentences."
+        ]
+      }
+    },
+    {
+      "q_id": 9,
+      "question_id": "3Aq1XRr2",
+      "text": "What is the purpose of the `<img>` element in HTML and which attribute specifies the image source?",
+      "type": "technical",
+      "level": 1,
+      "topics": [
+        "HTML",
+        "img tag",
+        "attributes"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sdf",
+      "evaluation": {
+        "overall_score": 50.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [
+          "Attempted to provide a response (even though it was nonsensical).",
+          "Shows willingness to engage with the interview prompt."
+        ],
+        "improvements": [
+          "Provide an answer that directly addresses the question.",
+          "Demonstrate basic knowledge of HTML elements and their attributes.",
+          "Structure the response clearly with concise sentences."
+        ]
+      }
+    },
+    {
+      "q_id": 10,
+      "question_id": "U5vFxXJi",
+      "text": "What is a hash function and what is a common use case for it in programming?",
+      "type": "technical",
+      "level": 1,
+      "topics": [
+        "hash functions",
+        "data structures",
+        "security"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sgdf",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "The submitted answer (\"sgdf\") does not contain any information related to the question about hash functions, their definition, or common use cases. As a result, it fails on correctness, depth, clarity, and relevance. For an entry‑level or junior position, interviewers expect candidates to at least define a hash function (e.g., a deterministic algorithm that maps input data of arbitrary size to a fixed‑size output) and mention typical applications such as hash tables for fast look‑ups or checksums for data integrity. In future responses, please read the prompt carefully, provide a concise definition, explain why hash functions are useful, and give a concrete example (e.g., using a hash function as a key in a dictionary or for password storage). Clear, structured answers demonstrate both technical knowledge and communication skills, which are essential even at junior levels.",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [
+          "None evident in this response."
+        ],
+        "improvements": [
+          "Provide a meaningful answer that directly addresses the question.",
+          "Demonstrate basic understanding of hash functions and their typical use cases.",
+          "Structure the response clearly with concise sentences."
+        ]
+      }
+    }
+  ],
+  "state": {
+    "current_level": 1,
+    "asked_count": 10,
+    "recent_scores": [
+      5.0,
+      50.0,
+      5.0
+    ]
+  },
+  "summary": {
+    "overall_score": 9.5,
+    "technical_score": 11.43,
+    "soft_skills_score": 5.0,
+    "final_level": 1,
+    "questions_answered": 10,
+    "strengths": [
+      "None evident in this response.",
+      "None demonstrated in this response.",
+      "Attempted to provide a response (even though it was nonsensical)"
+    ],
+    "areas_for_improvement": [
+      "Structure the response clearly with concise sentences.",
+      "Provide a substantive answer that directly addresses the question.",
+      "Provide an answer that directly addresses the question."
+    ],
+    "recommendation": "Below expectations - Not recommended without significant improvement",
+    "completed_at": "2025-11-14T12:29:35.110110"
+  }
+}

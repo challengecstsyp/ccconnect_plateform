@@ -1,0 +1,38 @@
+{
+  "interview_id": "cf189aaf-b1f7-4a50-b9be-f0a26839f091",
+  "settings": {
+    "job_title": "h",
+    "num_questions": 10,
+    "soft_pct": 0.3,
+    "initial_level": 3,
+    "keywords": [
+      "h"
+    ],
+    "language": "en",
+    "profile_brief": null
+  },
+  "questions": [
+    {
+      "q_id": 1,
+      "question_id": "pwcoW6PJ",
+      "text": "What three elements must be present for performance feedback to be perceived as fair and effective by employees?",
+      "type": "soft",
+      "level": 3,
+      "topics": [
+        "performance feedback",
+        "fairness",
+        "employee perception"
+      ],
+      "estimated_time": 35,
+      "context": "",
+      "candidate_answer": null,
+      "evaluation": null
+    }
+  ],
+  "state": {
+    "current_level": 3,
+    "asked_count": 1,
+    "recent_scores": []
+  },
+  "summary": null
+}

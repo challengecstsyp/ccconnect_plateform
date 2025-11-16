@@ -1,0 +1,166 @@
+{
+  "interview_id": "c2a817c3-09f3-4c58-a537-5e6d1d052575",
+  "settings": {
+    "job_title": "react developer",
+    "num_questions": 10,
+    "soft_pct": 0.3,
+    "initial_level": 3,
+    "keywords": [
+      "react developer"
+    ],
+    "language": "en",
+    "profile_brief": null
+  },
+  "questions": [
+    {
+      "q_id": 1,
+      "question_id": "W01twx4U",
+      "text": "**QUESTION:** When reviewing a teammate's pull request that introduces a new `useEffect`, what single aspect of the dependency array should you verify to ensure correct behavior?  \n\n**TOPICS:** React hooks, useEffect dependencies, code review  \n\n**TIME:** 3-5 minutes  \n\n**CONTEXT:**",
+      "type": "soft",
+      "level": 3,
+      "topics": [
+        "general"
+      ],
+      "estimated_time": 5,
+      "context": "",
+      "candidate_answer": "ss",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": -1,
+        "strengths": [],
+        "improvements": []
+      }
+    },
+    {
+      "q_id": 2,
+      "question_id": "tqLUE4TE",
+      "text": "What is the purpose of the `key` prop when rendering an array of components in React?",
+      "type": "technical",
+      "level": 2,
+      "topics": [
+        "React lists",
+        "key prop",
+        "rendering performance"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "sad",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "The submitted answer (\"sad\") does not address the interview question at all. It offers no information about the purpose of the `key` prop, its role in helping React identify elements during reconciliation, or how it impacts rendering performance and UI stability. For a junior React developer position, you are expected to at least explain that keys give each element a stable identity, enable efficient diffing, and should be unique and stable (e.g., using IDs rather than array indices). In future responses, make sure to read the question carefully, provide a clear and complete explanation, and organize your answer in a readable format (paragraphs or bullet points). Demonstrating even a basic understanding of this core React concept is essential for progressing in the interview process.",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": -1,
+        "strengths": [
+          "None demonstrated in this response."
+        ],
+        "improvements": [
+          "Provide a substantive answer that directly addresses the question.",
+          "Explain the purpose and mechanics of the `key` prop in React lists.",
+          "Structure the response clearly with concise sentences or bullet points."
+        ]
+      }
+    },
+    {
+      "q_id": 3,
+      "question_id": "wusNA7Fx",
+      "text": "**QUESTION:** What are the two values returned by the `useState` hook in a functional React component?  \n**TOPICS:** React hooks, useState, state management  \n**TIME:** 2-3 minutes  \n**CONTEXT:**",
+      "type": "technical",
+      "level": 1,
+      "topics": [
+        "general"
+      ],
+      "estimated_time": 5,
+      "context": "",
+      "candidate_answer": "zxzx",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [
+          "Attempted to provide an answer (engagement)",
+          "Concise response length (though content is incorrect)"
+        ],
+        "improvements": [
+          "Demonstrate fundamental knowledge of React hooks, specifically the `useState` return values (state variable and setter function)",
+          "Provide clear, complete, and accurate explanations rather than unrelated text",
+          "Structure answers with proper terminology and examples to show understanding"
+        ]
+      }
+    },
+    {
+      "q_id": 4,
+      "question_id": "3QnQWVJT",
+      "text": "What are `props` in React and how are they typically used inside a component?",
+      "type": "technical",
+      "level": 1,
+      "topics": [
+        "React basics",
+        "props",
+        "component communication"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": "zxxz",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": 0,
+        "strengths": [],
+        "improvements": []
+      }
+    },
+    {
+      "q_id": 5,
+      "question_id": "gDeHL3BO",
+      "text": "What is JSX in React and why is it used?",
+      "type": "soft",
+      "level": 1,
+      "topics": [
+        "JSX",
+        "React fundamentals"
+      ],
+      "estimated_time": 23,
+      "context": "",
+      "candidate_answer": null,
+      "evaluation": null
+    }
+  ],
+  "state": {
+    "current_level": 1,
+    "asked_count": 5,
+    "recent_scores": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  "summary": null
+}

@@ -1,0 +1,36 @@
+{
+  "interview_id": "c2a817c3-09f3-4c58-a537-5e6d1d052575",
+  "settings": {
+    "job_title": "react developer",
+    "num_questions": 10,
+    "soft_pct": 0.3,
+    "initial_level": 3,
+    "keywords": [
+      "react developer"
+    ],
+    "language": "en",
+    "profile_brief": null
+  },
+  "questions": [
+    {
+      "q_id": 1,
+      "question_id": "W01twx4U",
+      "text": "**QUESTION:** When reviewing a teammate's pull request that introduces a new `useEffect`, what single aspect of the dependency array should you verify to ensure correct behavior?  \n\n**TOPICS:** React hooks, useEffect dependencies, code review  \n\n**TIME:** 3-5 minutes  \n\n**CONTEXT:**",
+      "type": "soft",
+      "level": 3,
+      "topics": [
+        "general"
+      ],
+      "estimated_time": 5,
+      "context": "",
+      "candidate_answer": null,
+      "evaluation": null
+    }
+  ],
+  "state": {
+    "current_level": 3,
+    "asked_count": 1,
+    "recent_scores": []
+  },
+  "summary": null
+}

@@ -1,0 +1,21 @@
+{
+  "interview_id": "cf189aaf-b1f7-4a50-b9be-f0a26839f091",
+  "settings": {
+    "job_title": "h",
+    "num_questions": 10,
+    "soft_pct": 0.3,
+    "initial_level": 3,
+    "keywords": [
+      "h"
+    ],
+    "language": "en",
+    "profile_brief": null
+  },
+  "questions": [],
+  "state": {
+    "current_level": 3,
+    "asked_count": 0,
+    "recent_scores": []
+  },
+  "summary": null
+}

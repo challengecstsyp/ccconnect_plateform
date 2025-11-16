@@ -1,0 +1,59 @@
+{
+  "interview_id": "cf189aaf-b1f7-4a50-b9be-f0a26839f091",
+  "settings": {
+    "job_title": "h",
+    "num_questions": 10,
+    "soft_pct": 0.3,
+    "initial_level": 3,
+    "keywords": [
+      "h"
+    ],
+    "language": "en",
+    "profile_brief": null
+  },
+  "questions": [
+    {
+      "q_id": 1,
+      "question_id": "pwcoW6PJ",
+      "text": "What three elements must be present for performance feedback to be perceived as fair and effective by employees?",
+      "type": "soft",
+      "level": 3,
+      "topics": [
+        "performance feedback",
+        "fairness",
+        "employee perception"
+      ],
+      "estimated_time": 35,
+      "context": "",
+      "candidate_answer": "fdgs",
+      "evaluation": {
+        "overall_score": 5.0,
+        "subscores": {
+          "correctness": 50,
+          "depth": 50,
+          "clarity": 50,
+          "relevance": 50
+        },
+        "feedback": "The response “fdgs” does not address the question at all; it offers no information about the elements required for performance feedback to be perceived as fair and effective. As a result, the answer scores at the bottom of all evaluation criteria. For a mid‑level position, interviewers expect candidates to articulate the three core elements—typically clarity/specificity, timeliness, and a balanced, behavior‑focused approach (or similar frameworks such as consistency, objectivity, and developmental focus). To improve, you should study common models of effective feedback, practice summarizing them concisely, and present your answer in a structured format (e.g., list each element with a brief explanation). Demonstrating this knowledge will show the analytical and communication skills expected for the role.",
+        "level_recommendation": "DECREASE",
+        "level_adjustment": -1,
+        "strengths": [
+          "None evident in this response."
+        ],
+        "improvements": [
+          "Provide a substantive answer that directly addresses the question.",
+          "Demonstrate understanding of key concepts related to fair and effective performance feedback.",
+          "Organize thoughts clearly and use appropriate terminology."
+        ]
+      }
+    }
+  ],
+  "state": {
+    "current_level": 2,
+    "asked_count": 1,
+    "recent_scores": [
+      5.0
+    ]
+  },
+  "summary": null
+}
