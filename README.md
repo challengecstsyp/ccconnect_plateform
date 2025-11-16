@@ -1,4 +1,4 @@
-# UtopiaHire - Next.js
+# UtopiaHire - cconnect
 
 A modern AI-powered career platform built with Next.js, React, and Tailwind CSS.
 
@@ -72,6 +72,26 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Branches
+
+**main**  
+The complete **CCConnect platform**.
+
+**integration**  
+Version 0 of the CCConnect platform.
+
+**Reviewer-Rewriter-feature**  
+An AI-powered CV reviewer and rewriter.
+
+**interviewer_questioning**  
+An AI interviewer that generates and evaluates interview questions.
+
+**job_matcher**  
+A job-matching module that matches CVs to job offers and jobs to CVs.
+
+**latex_gen**  
+A LaTeX generator that produces PDF reports based on predefined templates.
 
 ## License
 
