@@ -1,0 +1,30 @@
+# AI-Driven Adaptive Interview Simulator - Backend Dependencies
+# Python 3.10+ required
+
+# Core FastAPI framework
+fastapi>=0.95.0
+uvicorn[standard]>=0.23.0
+
+# Data validation and serialization
+pydantic>=1.10.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Python compatibility utilities
+typing-extensions>=4.0.0
+
+# Ollama client for LLM integration
+ollama>=0.1.0
+
+# For JSON file operations (standard library, but some tools require it)
+orjson>=3.8.0
+
+# For HTTP requests if needed (optional, but common)
+httpx>=0.24.0
+
+# For UUID generation (standard library, but some tools require explicit install)
+uuid
+
+# For file locking (optional, if you use it in storage)
+filelock>=3.12.0

@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+backend/backend.egg-info/
+backend/data/interviews/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+*.pyd
+venv/
+env/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+*.log
+
+# React / Frontend extras
+public/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Environment
+.env
+*.lock
+.DS_Store
+
+# VSCode
+.vscode/
