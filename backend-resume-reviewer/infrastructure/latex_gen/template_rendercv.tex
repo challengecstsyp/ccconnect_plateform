@@ -1,0 +1,160 @@
+\documentclass[10pt, letterpaper]{article}
+
+% -------------------------------------------------
+% PACKAGES
+% -------------------------------------------------
+\usepackage[
+    ignoreheadfoot,
+    top=2cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    footskip=1.0cm
+]{geometry}
+
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{primaryColor}{RGB}{0, 0, 0}
+
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+\usepackage{amsmath}
+
+\usepackage[
+    pdftitle={{{name}}'s CV},
+    pdfauthor={{{name}}},
+    colorlinks=true,
+    urlcolor=primaryColor
+]{hyperref}
+
+\usepackage{eso-pic}
+\usepackage{calc}
+\usepackage{bookmark}
+\usepackage{lastpage}
+\usepackage{changepage}
+\usepackage{paracol}
+\usepackage{ifthen}
+\usepackage{needspace}
+\usepackage{iftex}
+
+\ifPDFTeX
+    \input{glyphtounicode}
+    \pdfgentounicode=1
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc}
+    \usepackage{lmodern}
+\fi
+
+\usepackage{charter}
+
+% -------------------------------------------------
+% GLOBAL SETTINGS
+% -------------------------------------------------
+\raggedright
+\pagestyle{empty}
+\setcounter{secnumdepth}{0}
+\setlength{\parindent}{0pt}
+\setlength{\topskip}{0pt}
+\setlength{\columnsep}{0.15cm}
+\pagenumbering{gobble}
+
+\titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
+\titlespacing{\section}{-1pt}{0.3cm}{0.2cm}
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
+
+% -------------------------------------------------
+% ENVIRONMENTS
+% -------------------------------------------------
+
+\newenvironment{header}{
+    \setlength{\topsep}{0pt}
+    \par\kern\topsep
+    \centering
+    \linespread{1.5}
+}{
+    \par\kern\topsep
+}
+
+\newenvironment{highlights}{
+\begin{itemize}[
+    topsep=0.10cm,
+    parsep=0.10cm,
+    partopsep=0pt,
+    itemsep=0pt,
+    leftmargin=10pt
+]
+}{
+\end{itemize}
+}
+
+\newenvironment{onecolentry}{
+\begin{adjustwidth}{0cm}{0cm}
+}{
+\end{adjustwidth}
+}
+
+\newenvironment{twocolentry}[2][]{
+\onecolentry
+\def\secondColumn{#2}
+\setcolumnwidth{\fill,4.5cm}
+\begin{paracol}{2}
+}{
+\switchcolumn \raggedleft \secondColumn
+\end{paracol}
+\endonecolentry
+}
+
+% -------------------------------------------------
+% DOCUMENT BODY
+% -------------------------------------------------
+
+\begin{document}
+
+% ---------------- HEADER SECTION ------------------
+\begin{header}
+    \fontsize{25pt}{25pt}\selectfont {{name}}
+
+    \vspace{5pt}
+
+    \normalsize
+    {{email}}%
+    \kern 5pt \textbar\ \kern 5pt
+    {{phone}}%
+    \kern 5pt \textbar\ \kern 5pt
+    {{linkedin}}%
+    \kern 5pt \textbar\ \kern 5pt
+    {{github}}
+\end{header}
+
+\vspace{0.3cm}
+
+% ---------------- SUMMARY -------------------------
+{{summary_section}}
+
+% ---------------- EXPERIENCE -----------------------
+{{experience_section}}
+
+% ---------------- EDUCATION ------------------------
+{{education_section}}
+
+% ---------------- SKILLS ---------------------------
+{{skills_section}}
+
+% ---------------- CERTIFICATIONS -------------------
+{{certifications_section}}
+
+% ---------------- PROJECTS -------------------------
+{{projects_section}}
+
+% ---------------- LANGUAGES ------------------------
+{{languages_section}}
+
+% ---------------- SOFT SKILLS ----------------------
+{{soft_skills_section}}
+
+% ---------------- ASSOCIATIONS ---------------------
+{{associations_section}}
+
+\end{document}
